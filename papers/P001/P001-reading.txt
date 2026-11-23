@@ -1,0 +1,150 @@
+@paper Mr Tee HSG Practice Papers · P001 | Reading
+@section Reading · 3 tasks (Tasks 1–2 online now) · 18 items
+@instructions Read each text carefully. Answer every question in a task, then click CHECK ANSWERS.
+
+@task Task 1 · Counting what counts
+@instructions Read the discussion of a hypothetical library dashboard. For questions 1–8, choose A, B, C or D.
+@text
+[1] A town library is considering a new way to assess its work. In this hypothetical example, the council wants a dashboard showing book loans, visits and attendance at events. These are sensible things to count. They are also convenient: the lending system already records loans, a counter can register entries, and an organiser can count chairs. The difficulty begins when the figures are asked to stand for the whole purpose of the library. A service can become easier to describe while becoming harder to understand.
+
+[2] Consider two afternoon events. One fills a room with people who already use the library every week. The other attracts a handful of new visitors who have never felt comfortable entering it before. Attendance alone would favour the first. That does not make the first event a failure, or the second an automatic triumph. It means that the decision depends on what the events were intended to achieve. Counting before defining the purpose can produce an impressively precise answer to a question nobody has agreed to ask.
+
+[3] The obvious remedy is to add more indicators. The council might record new registrations, returning visitors and comments from participants. Each would reveal something the attendance total misses. Yet more numbers do not necessarily mean a fuller picture. If staff are rewarded for new registrations, they might concentrate on signing people up rather than helping them use the service. A measure that once supplied useful evidence can become an instruction about what deserves effort. This risk does not require dishonest employees; people can respond quite conscientiously to the incentives they are given.
+
+[4] Nor can a collection of grateful comments settle the matter. People who write to the library may be unusually enthusiastic, while people who quietly stop coming leave no explanation. The comments can still illuminate what the service means to particular users. Their limitation concerns the range of experiences they represent, not whether those experiences are real. A moving story should not be made to do the work of a representative survey, any more than a survey average should be expected to convey the texture of one person’s experience.
+
+[5] A better dashboard would therefore include a short account of what its figures can and cannot support. If visits rose after opening hours were extended, that sequence would be worth reporting. It would not by itself establish that the extension caused the increase: a school nearby might have changed its timetable at the same time. Asking staff to discuss such possibilities need not be an excuse for doing nothing. It can identify what evidence to collect next and which decisions are safe enough to try on a limited scale.
+
+[6] The point is not that judgment should replace measurement. Unexamined intuition can be as self-serving as an unexamined target. The stronger arrangement makes each answerable to the other: figures can challenge a manager’s favourite story, and a well-supported explanation can challenge what a figure appears to show. The dashboard should begin a conversation about public value, not bring that conversation to a ceremonious end. Precision earns its authority when we know what it is precise about.
+@endtext
+1. Why are loans and visits attractive measures in paragraph 1?
+A. They show what the library is ultimately for
+B. Existing systems and simple tools already produce them
+C. They make the library’s service easier to understand
+D. The council has agreed that they are sufficient
+ANS: B
+WHY: Paragraph 1: they are "convenient" because "the lending system already records loans, a counter can register entries". A is wrong: the problem starts when figures stand for the whole purpose. C is the opposite: "easier to describe while becoming harder to understand".
+2. What does the comparison between the two events establish?
+A. Events for new visitors deserve priority over events for regulars
+B. High attendance shows that an event has met its aims
+C. Attendance needs to be interpreted in relation to purpose
+D. The first event failed because it attracted existing users
+ANS: C
+WHY: "The decision depends on what the events were intended to achieve." The writer says the first event is not "a failure" (not D) and the second is not "an automatic triumph" (not A).
+3. Why might staff concentrate on registrations?
+A. They want to disguise weak results from the council
+B. New registrations reveal more than the attendance total
+C. The reward system directs their effort towards that figure
+D. Helping people use the service cannot easily be measured
+ANS: C
+WHY: "If staff are rewarded for new registrations, they might concentrate on signing people up." A is wrong: the risk "does not require dishonest employees".
+4. What limitation of written comments does the writer identify?
+A. They tend to exaggerate how much users have benefited
+B. They may come from an unrepresentative selection of users
+C. They explain why some people have stopped visiting
+D. They say too little about what the service means
+ANS: B
+WHY: People who write may be "unusually enthusiastic", while those who stop coming "leave no explanation". So the comments may not represent all users. The writer says the experiences are real (not A), and comments do "illuminate what the service means" (not D).
+5. The changed school timetable is mentioned to show that
+A. the longer opening hours had no effect on visits
+B. visits should be reported only after a full investigation
+C. local schools are a major source of library visitors
+D. another change could account for the increase in visits
+ANS: D
+WHY: The rise in visits may have another cause happening "at the same time". The writer does not say the longer hours had no effect (A is too strong), and says the sequence is "worth reporting" (not B).
+6. How does the writer regard uncertainty about causes?
+A. As something that further evidence and limited trials can address
+B. As a reason to postpone decisions until the cause is certain
+C. As a matter best settled through discussion among staff
+D. As a sign that the visit figures were recorded wrongly
+ANS: A
+WHY: Discussion "can identify what evidence to collect next and which decisions are safe enough to try on a limited scale". B is wrong: it "need not be an excuse for doing nothing". Discussion only plans the next step; it does not settle the question (not C).
+7. What does the final sentence imply about precision?
+A. Its authority depends on understanding the scope of the claim being measured
+B. Its authority rests mainly on consistency with an external standard of accuracy
+C. Its authority comes from resolving disagreements about the institution’s purposes
+D. Its authority requires setting aside interpretation until the data are uncontested
+ANS: A
+WHY: "Precision earns its authority when we know what it is precise about" = a precise number matters only if we know what it really measures. C and D go against the idea that the dashboard should "begin a conversation".
+8. Which statement best captures the relationship proposed in the final paragraph?
+A. Professional judgment should decide when numerical findings may be admitted as evidence
+B. A dashboard should combine stories and numbers so that the need for further judgment is reduced
+C. Measurement and explanation should be able to correct the assumptions embodied in each other
+D. Narrative should supply the purposes, while numbers should remain exempt from reinterpretation
+ANS: C
+WHY: "Makes each answerable to the other": figures can challenge a story, and a good explanation can challenge a figure. It works in both directions. A and D make it one-way; B wrongly says less judgment will be needed.
+
+@task Task 2 · A place to be quiet
+@instructions For questions 9–13, choose the paragraph (A–F) that contains the idea. Use each letter once; ONE paragraph is extra. For questions 14–18, choose A, B, C or D.
+@text
+A. A public reading room can offer something that a private subscription cannot: somewhere to remain without being expected to buy another drink. Its value is not confined to the books on the shelves. For a person living in a crowded home, a chair and a stretch of uninterrupted time may be the most important resources in the building. Quiet, in this setting, is an activity made possible by collective arrangements rather than an absence that simply happens.
+
+B. This does not mean a room can satisfy everyone merely by displaying a silence sign. A student may need to discuss an assignment; another visitor may find even a whispered exchange distracting. Both uses can be reasonable. The apparent conflict is sometimes better addressed by providing different spaces or different periods than by declaring that one kind of user is the authentic reader and the other an intruder. The rule should serve a purpose that can be explained.
+
+C. There are nevertheless reasons to resist the demand that every part of a library become conversational. Someone who wants a discussion can often ask others to join one. Someone who needs silence cannot create it independently while remaining in a noisy room. The ability to leave is not equivalent to an alternative place to go. A policy that treats all preferences as equally easy to exercise may therefore distribute its costs very unequally.
+
+D. An online reservation system may seem an elegant solution to disputes about seats. It removes the uncertainty of arriving to find every desk occupied. But it also changes the nature of entry: visitors must plan, have access to the system and know how to use it. A few unreserved desks can preserve the possibility of an unplanned visit. Efficiency in allocating a resource is not the only consideration when part of that resource’s value lies in being readily available.
+
+E. Staff also have to enforce whatever arrangements are chosen. If a policy relies on a librarian endlessly asking people to be quieter, the design has transferred a persistent conflict from the room to the employee. A booking confirmation could explain the quiet area, while signs could direct groups towards a discussion room. Such measures do not eliminate disagreement; they prevent the person at the desk from having to invent the policy anew in every encounter.
+
+F. None of this requires making quiet sacred. A rule which once protected concentration can outlive the circumstances that justified it. The useful question is what would be lost if the rule disappeared, who would bear that loss, and whether the same purpose could be served less restrictively. Public quiet is defensible because it enables people to do things, not because quiet people are more virtuous than everybody else. Its defence is strongest when it can survive that distinction.
+@endtext
+@option A. Paragraph A
+@option B. Paragraph B
+@option C. Paragraph C
+@option D. Paragraph D
+@option E. Paragraph E
+@option F. Paragraph F
+9. An advantage of a system that guarantees a seat in advance.
+ANS: D
+WHY: Paragraph D: online booking "removes the uncertainty of arriving to find every desk occupied".
+10. The burden of managing a recurring problem can fall on staff.
+ANS: E
+WHY: Paragraph E: if a librarian must keep asking people to be quiet, the conflict is "transferred … to the employee".
+11. The importance of a place where spending is not a condition of staying.
+ANS: A
+WHY: Paragraph A: "somewhere to remain without being expected to buy another drink".
+12. Different legitimate uses may need different arrangements.
+ANS: B
+WHY: Paragraph B: discussing and silent study are both reasonable, so provide "different spaces or different periods".
+13. A rule can remain in force after the reasons for it have gone.
+ANS: F
+WHY: Paragraph F: "A rule which once protected concentration can outlive the circumstances that justified it." Paragraph C is the extra one.
+14. Why does the writer describe quiet in paragraph A as “an activity” rather than “an absence”?
+A. To show that silence must be actively enforced by staff
+B. To stress that it depends on shared arrangements, not chance
+C. To suggest that reading matters more than other quiet uses
+D. To argue that people with crowded homes deserve priority
+ANS: B
+WHY: Quiet is "made possible by collective arrangements rather than an absence that simply happens". Enforcement by staff is from paragraph E (not A); crowded homes are only an example (not D).
+15. Which assumption does paragraph C most directly challenge?
+A. Preferences are best accommodated in proportion to how frequently they are expressed
+B. The costs of a public service should be borne by its users rather than its providers
+C. Allocating equal physical space to each activity necessarily provides equal resources
+D. An equal formal liberty necessarily provides comparable practical opportunity
+ANS: D
+WHY: Everyone is equally "free" to leave, but "the ability to leave is not equivalent to an alternative place to go". Equal freedom on paper does not give equal real chances. The paragraph is not about space, numbers of people or who pays.
+16. Why does the writer favour keeping some desks unreserved?
+A. To retain access for people who do not plan or book online
+B. To reduce the number of disputes about who occupies a seat
+C. To make the allocation of seats as efficient as possible
+D. To encourage visitors to plan their study time more carefully
+ANS: A
+WHY: Unreserved desks "preserve the possibility of an unplanned visit" for people who cannot or do not book. C is the opposite: efficiency "is not the only consideration".
+17. The measures in paragraph E are intended primarily to
+A. reduce the number of staff needed at the desk
+B. end disagreement between quiet and talkative users
+C. give staff more freedom to decide each case themselves
+D. make expectations clear and consistently applicable
+ANS: D
+WHY: Booking messages and signs make the rules clear, so staff do not have to "invent the policy anew in every encounter". B is wrong: the measures "do not eliminate disagreement".
+18. What makes the final paragraph’s defence of quiet conditional rather than absolute?
+A. It treats flexibility as a means of improving compliance with an otherwise unquestioned norm
+B. It assigns the burden of justification principally to those requesting a change in the rule
+C. It ties the rule to its purpose and to less restrictive alternatives
+D. It subordinates individual needs to an administrative definition of useful behaviour
+ANS: C
+WHY: The writer asks what would be lost without the rule, who would lose, and "whether the same purpose could be served less restrictively". The rule is defended only because of what it makes possible.
+
+@task Task 3 · So off she went to the circus
+@note This task is being revised and will be added soon.

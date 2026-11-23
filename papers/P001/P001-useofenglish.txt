@@ -1,0 +1,133 @@
+@paper Mr Tee HSG Practice Papers · P001 | Use of English
+@section Use of English · 4 tasks · 25 items
+@instructions Answer every question in a task, then click CHECK ANSWERS. Spelling counts; capital letters do not.
+
+@task Task 1 · Lexical precision
+@instructions For questions 1–10, choose A, B, C or D. Only ONE option is correct.
+1. The investigators could not ________ the possibility that the files had been copied before they were deleted.
+A. rule out
+B. put off
+C. take over
+D. bring up
+ANS: A
+WHY: **Rule out** a possibility = say it cannot be true. They could not rule it out, so the files may have been copied. Put off = delay; take over = take control; bring up = mention.
+2. The librarian accepted the award ________ the whole team, rather than claiming it as a personal achievement.
+A. at odds with
+B. in place of
+C. on behalf of
+D. by means of
+ANS: C
+WHY: **On behalf of** = representing someone. She accepted the award for the team. In place of = instead of; by means of = by using; at odds with = in disagreement with.
+3. Once the results were published, the method came under close ________ from other researchers.
+A. attendance
+B. scrutiny
+C. surveillance
+D. insight
+ANS: B
+WHY: **Come under close scrutiny** = be examined very carefully. Surveillance means watching people's activities, not checking a method. Insight = deep understanding; attendance = being present.
+4. By promising that the system could never fail, the director made herself ________: every later fault could be used to discredit her.
+A. a law unto herself
+B. a hostage to fortune
+C. a thorn in their side
+D. a voice in the wilderness
+ANS: B
+WHY: **A hostage to fortune** = something you say or do that can cause you trouble later. Her promise "never fail" could be used against her. A = someone who ignores the rules; C = a constant annoyance; D = someone nobody listens to.
+5. Calling the novel “surprisingly readable for something of its kind”, the critic appeared to commend it while actually ________.
+A. taking it at face value
+B. making allowances for it
+C. giving it the benefit of the doubt
+D. damning it with faint praise
+ANS: D
+WHY: **Damn with faint praise** = praise so weakly that it is really criticism. "Surprisingly readable for something of its kind" sounds positive but looks down on the book. A = accept something as it appears; B = excuse weaknesses; C = believe someone without proof.
+6. The new evidence ________ the witness’s account: the camera showed her entering at exactly the time she had given.
+A. made up for
+B. went through with
+C. bore out
+D. put up with
+ANS: C
+WHY: **Bear out** (past: bore out) = show that something is true. The camera confirmed her story. Made up for = compensated for; went through with = completed something difficult; put up with = tolerated.
+7. The proposal was rejected because its running costs would place too heavy a ________ on the library’s budget.
+A. burden
+B. allowance
+C. levy
+D. quota
+ANS: A
+WHY: **Place a burden on** = create a heavy load or cost. A levy is a tax; an allowance is money you receive; a quota is a fixed amount or limit.
+8. The chair asked everyone to ________ judgment until the independent review had been completed.
+A. reserve
+B. conserve
+C. preserve
+D. deserve
+ANS: A
+WHY: **Reserve judgment** = wait before deciding or giving an opinion. Conserve = save resources; preserve = keep something safe; deserve = have a right to something.
+9. A mediator need not be indifferent to an outcome, but must remain ________: having a financial stake would compromise that impartiality.
+A. undistinguished
+B. disinterested
+C. uninterested
+D. uninteresting
+ANS: B
+WHY: **Disinterested** = neutral, with nothing to gain personally. **Uninterested** = not interested; the sentence says the mediator may care about the result, so C is wrong. "Financial stake" and "impartiality" point to B.
+10. The claim “this rule is fair because it treats people fairly” ________ the question: it assumes precisely what it should establish.
+A. poses
+B. moots
+C. settles
+D. begs
+ANS: D
+WHY: **Beg the question** (in logic) = use the conclusion as the reason, a circular argument. The part after the colon describes exactly this. Poses = asks; moots = raises for discussion; settles = solves.
+
+@task Task 2 · Word formation
+@instructions For questions 11–15, use the word in brackets to form ONE word that fits the gap.
+11. A pilot study is needed to establish the financial ________ of the scheme. (FEASIBLE)
+ANS: feasibility
+WHY: After "the financial" we need a noun: **feasibility** = how possible or practical something is.
+12. The rules were designed to improve public ________ by making every payment traceable. (ACCOUNTABLE)
+ANS: accountability
+WHY: Noun after "public": **accountability** = being responsible and able to explain your actions. "Traceable payments" support this meaning.
+13. The board thought a ten-year ban was ________ to the minor offence. (PROPORTION)
+ANS: disproportionate | disproportional
+WHY: A ten-year ban for a minor offence is too strong: **disproportionate** = not in a fair relation to something. "Proportional" gives the opposite meaning.
+14. The negotiations ended when the two positions proved ________: neither side would accept the other’s basic principle. (RECONCILE)
+ANS: irreconcilable | unreconcilable
+WHY: **Irreconcilable** = impossible to bring together. The talks ended because neither side would accept the other.
+15. The manager admitted that she had ________ the number of people who would volunteer; far fewer actually joined. (ESTIMATE)
+ANS: overestimated
+WHY: "Far fewer actually joined", so her guess was too high: **overestimated**. Underestimated would mean her guess was too low.
+
+@task Task 3 · Open cloze
+@instructions For questions 16–20, write ONE word in each gap.
+@text
+A journal editor should not accept a dramatic conclusion (16) ________ the evidence is strong enough to support it. Researchers (17) ________ findings are challenged may feel defensive, but criticism is part of the process. A claim should not be taken (18) ________ granted merely because it is presented with confidence. (19) ________ impressive a graph may look, the data beneath it still matter. Only after the analysis had been repeated (20) ________ the team decide to publish its conclusion.
+@endtext
+16. Gap (16)
+ANS: unless | until | before
+WHY: "Do not accept the conclusion **unless** the evidence is strong enough." Until and before also keep the meaning.
+17. Gap (17)
+ANS: whose
+WHY: **Whose** shows possession: the researchers' findings. Who/whom cannot go directly before the noun "findings" here.
+18. Gap (18)
+ANS: for
+WHY: **Take something for granted** = believe it is true without checking. "For" is a fixed part of the expression.
+19. Gap (19)
+ANS: however
+WHY: **However + adjective** + subject + may… = no matter how. "However impressive a graph may look…". Whatever cannot go directly before an adjective like this.
+20. Gap (20)
+ANS: did
+WHY: "Only after…" at the start of a sentence causes inversion: **did** + subject + base verb ("did the team decide").
+
+@task Task 4 · Key-word transformations
+@instructions For questions 21–25, complete the second sentence so that it has the same meaning as the first. Use THREE TO SIX WORDS, including the word given. Do not change the key word. Contractions count as two words. Type only the missing words.
+21. The committee ignored the cost of maintaining the equipment. → Key word: **ACCOUNT** → The committee failed ________ the cost of maintaining the equipment.
+ANS: to take account of | to take into account | to take any account of
+WHY: **Fail to do** something + **take account of** / **take into account** = consider. "To take account" (no "of") is incomplete; "to account for" means "to explain", which changes the meaning.
+22. She realised that the documents were missing only when she opened the box. → Key word: **UNTIL** → It was ________ the box that she realised the documents were missing.
+ANS: not until she opened | not until she had opened
+WHY: Emphasis pattern: **It was not until** + clause + **that**… There is no inversion after "until".
+23. Although the room was small, it accommodated the entire group. → Key word: **DESPITE** → The room accommodated the entire group ________.
+ANS: despite being small | despite its small size | despite its size | despite its being small | despite it being small | despite the fact it was small | despite being a small room | despite the room being small | despite its smallness
+WHY: **Despite** is followed by a noun phrase or -ing, not a full clause: ✗ despite it was small.
+24. Without your timely warning, we would have missed the deadline. → Key word: **BUT** → We would have missed the deadline ________.
+ANS: but for your timely warning | but for your warning
+WHY: **But for** + noun = without / if it had not been for. It goes with "would have + past participle".
+25. The person who found the error was the director herself. → Key word: **OTHER** → The error was found by ________ the director herself.
+ANS: none other than | no one other than | nobody other than
+WHY: **None other than** = emphasises that it was this surprising person. "No other than" is not standard English.

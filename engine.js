@@ -1,4 +1,4 @@
-/* MR TEE LEARNING HUB — Practice Paper Engine v1.0
+/* MR TEE LEARNING HUB — Practice Paper Engine v1.1
    Usage in a Google Sites "Embed code" block:
      <script src="https://USERNAME.github.io/REPO/engine.js"><\/script>
      <script type="text/plain" class="mt-paper"> ...paper data... <\/script>
@@ -245,5 +245,10 @@
     if (!document.getElementById("mt-style")) { var st = el("style"); st.id = "mt-style"; st.textContent = CSS; document.head.appendChild(st); }
     document.querySelectorAll("script.mt-paper:not([data-done])").forEach(function (n) { n.setAttribute("data-done", "1"); try { render(n); } catch (e) { n.insertAdjacentHTML("afterend", "<p style='color:red'>Paper data error: " + esc(e.message) + "</p>"); } });
   }
-  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot); else boot();
+  // Run now and again later: some hosts (e.g. Google Sites embeds) write the page
+  // without ever firing DOMContentLoaded. boot() is safe to call repeatedly.
+  boot();
+  document.addEventListener("DOMContentLoaded", boot);
+  window.addEventListener("load", boot);
+  [300, 1000, 2500].forEach(function (t) { setTimeout(boot, t); });
 })();

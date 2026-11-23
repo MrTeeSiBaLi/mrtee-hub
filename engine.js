@@ -1,4 +1,4 @@
-/* MR TEE LEARNING HUB — Practice Paper Engine v1.6 (adds @transcript…@endtranscript, a click-to-open transcript; v1.5 added YouTube video in @audio; v1.4 added @image and T/F/NG option keys)
+/* MR TEE LEARNING HUB — Practice Paper Engine v1.7 (adds OPEN FULL SCREEN button when embedded, e.g. in Google Sites, and phone layout; v1.6 added @transcript…@endtranscript; v1.5 added YouTube video in @audio; v1.4 added @image and T/F/NG option keys)
    Usage in a Google Sites "Embed code" block:
      <script src="https://USERNAME.github.io/REPO/engine.js"><\/script>
      <script type="text/plain" class="mt-paper"> ...paper data... <\/script>
@@ -20,6 +20,7 @@
   ".mt-audio{margin:8px 0;font-family:Inter,Arial,sans-serif;font-size:14px}" +
   ".mt-audio audio{width:100%;max-width:520px;display:block;margin-top:3px}" +
   ".mt-audio iframe{width:100%;max-width:520px;height:70px;border:0;display:block}" +
+  "@media (max-width:600px){.mt{padding:6px 8px 30px;font-size:16px;line-height:1.55}.mt-text{padding:10px 12px}.mt select,.mt input[type=text]{min-width:0;width:100%;max-width:100%;box-sizing:border-box}.mt-btn{margin-bottom:6px}}" +
   ".mt-tr{margin:10px 0}.mt-tr>summary{cursor:pointer;font-family:Inter,Arial,sans-serif;font-size:15px;font-weight:600;color:#333;padding:6px 0}" +
   ".mt-text{background:#fbfaf6;border:1px solid #e3ded2;padding:14px 18px;margin:10px 0;white-space:pre-wrap}" +
   ".mt-opts{font-family:Inter,Arial,sans-serif;font-size:15px;background:#fbfaf6;border:1px solid #e3ded2;padding:10px 14px;margin:10px 0}" +
@@ -297,6 +298,10 @@
     node.parentNode.insertBefore(root, node.nextSibling);
   }
 
+  var ENGINE_BASE = (function () {
+    var sc = document.currentScript || [].slice.call(document.getElementsByTagName("script")).filter(function (x) { return /engine\.js/.test(x.src || ""); })[0];
+    var m = sc && sc.src && sc.src.match(/^(.*\/)engine\.js/); return m ? m[1] : "";
+  })();
   function setupBook(b) {
     b.setAttribute("data-done", "1"); b.classList.add("mt");
     var head = el("div");
@@ -307,6 +312,13 @@
     var tools = el("div", "mt-tools");
     function btn(txt, open) { var x = el("button", "mt-btn alt", txt); x.onclick = function () { b.querySelectorAll("details:not(.mt-tr)").forEach(function (d) { d.open = open; }); }; tools.appendChild(x); }
     btn("EXPAND ALL", true); btn("COLLAPSE ALL", false);
+    var framed = true; try { framed = window.self !== window.top; } catch (e) { framed = true; }
+    var first = b.querySelector(".mt-paper[data-src]"), code = first && (first.getAttribute("data-src").match(/\/papers\/(P\d+)\//) || [])[1];
+    if (framed && code && ENGINE_BASE) {
+      var full = el("a", "mt-btn", "⤢ OPEN FULL SCREEN (best on phones)");
+      full.href = ENGINE_BASE + "paper.html?p=" + encodeURIComponent(code) + "&t=" + encodeURIComponent(b.getAttribute("data-title") || "");
+      full.target = "_blank"; full.rel = "noopener"; tools.insertBefore(full, tools.firstChild);
+    }
     head.appendChild(tools); b.insertBefore(head, b.firstChild);
   }
 

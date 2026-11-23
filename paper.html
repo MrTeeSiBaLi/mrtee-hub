@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mr Tee HSG Practice Papers</title>
+<style>body{margin:0;background:#fff}</style>
+</head>
+<body>
+<div id="book"></div>
+<script>
+(function () {
+  var q = new URLSearchParams(location.search);
+  var code = (q.get("p") || "").toUpperCase();
+  var box = document.getElementById("book");
+  if (!/^P\d{3}$/.test(code)) { box.textContent = "Paper not found. Open this page from your teacher's link."; return; }
+  var title = q.get("t") || ("Mr Tee HSG Practice Papers · " + code);
+  document.title = title.replace(/\s*\|\s*/, " · ");
+  var b = document.createElement("div"); b.className = "mt-book"; b.setAttribute("data-title", title);
+  ["listening", "useofenglish", "reading", "writing", "glossary"].forEach(function (part) {
+    var d = document.createElement("div"); d.className = "mt-paper";
+    d.setAttribute("data-src", "papers/" + code + "/" + code + "-" + part + ".txt"); b.appendChild(d);
+  });
+  box.appendChild(b);
+  var s = document.createElement("script"); s.src = "engine.js?v=7"; document.body.appendChild(s);
+})();
+</script>
+</body>
+</html>

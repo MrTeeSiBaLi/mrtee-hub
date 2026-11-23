@@ -1,4 +1,4 @@
-/* MR TEE LEARNING HUB — Practice Paper Engine v1.4 (adds @image; @option keys up to 3 letters, e.g. T/F/NG)
+/* MR TEE LEARNING HUB — Practice Paper Engine v1.5 (adds YouTube video in @audio; v1.4 added @image and T/F/NG option keys)
    Usage in a Google Sites "Embed code" block:
      <script src="https://USERNAME.github.io/REPO/engine.js"><\/script>
      <script type="text/plain" class="mt-paper"> ...paper data... <\/script>
@@ -134,6 +134,18 @@
     var drive = a.url.match(/drive\.google\.com\/(?:file\/d\/|open\?id=|uc\?(?:export=\w+&)?id=)([\w-]+)/);
     if (drive) {
       var f = el("iframe"); f.src = "https://drive.google.com/file/d/" + drive[1] + "/preview"; f.allow = "autoplay"; box.appendChild(f); return box;
+    }
+    var yt = a.url.match(/(?:youtu\.be\/|youtube(?:-nocookie)?\.com\/(?:watch\?(?:.*&)?v=|embed\/|shorts\/))([\w-]{11})/);
+    if (yt) {
+      var q = "?rel=0&modestbranding=1" + (a.start != null ? "&start=" + Math.floor(a.start) : "") + (a.end ? "&end=" + Math.ceil(a.end) : "");
+      var w = el("div"); w.style.cssText = "position:relative;width:100%;max-width:640px;aspect-ratio:16/9;margin-top:6px";
+      var y = el("iframe"); y.src = "https://www.youtube-nocookie.com/embed/" + yt[1] + q;
+      y.title = a.label || "YouTube video"; y.setAttribute("allowfullscreen", ""); y.allow = "encrypted-media; picture-in-picture; fullscreen";
+      y.style.cssText = "position:absolute;inset:0;width:100%;height:100%;max-width:none;border:0";
+      w.appendChild(y); box.appendChild(w);
+      var lk = el("a", null, "Video not showing? Open it on YouTube ↗"); lk.href = "https://youtu.be/" + yt[1] + (a.start != null ? "?t=" + Math.floor(a.start) : ""); lk.target = "_blank"; lk.rel = "noopener";
+      lk.style.cssText = "display:inline-block;margin-top:6px;font-size:14px"; box.appendChild(lk);
+      return box;
     }
     var au = el("audio"); au.controls = true; au.preload = "none"; au.src = a.url;
     if (a.start != null) {

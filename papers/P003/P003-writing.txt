@@ -1,0 +1,26 @@
+@paper Mr Tee HSG Practice Papers · P003 | Writing
+@section Writing · 2 tasks · 5 marks
+@instructions Plan your answers here, then write and submit them in MR TEE WRITING STUDIO. Your teacher will give feedback there.
+
+@task Task 1 · Summary (2 marks)
+@instructions In 120–150 words, summarise why the Breeding Bird Survey is valuable to researchers and the limits of what its counts can show. Use your own words as far as possible. Do not add your opinions.
+@text
+Each breeding season since 1966, mostly in June, volunteers across North America have taken part in a bird count with an unusually strict routine. The North American Breeding Bird Survey, now coordinated jointly by agencies in the United States, Canada and Mexico, asks skilled observers to follow a fixed roadside route of about 39 kilometres. They stop fifty times, roughly every 800 metres, and at each stop they spend exactly three minutes recording every bird they see within 400 metres and every bird they hear. The count begins half an hour before sunrise, and each route is covered only once a year.
+
+The value of this routine lies in its consistency. Because the same routes are surveyed in the same way year after year, a change in the counts is more likely to reflect a change in bird populations than a change in method. The scale is also unusual. In recent decades, around 3,000 routes have been sampled annually, producing trend information for more than 500 species. No single research team could collect such a record, and it is used to guide bird management and conservation.
+
+The same design, however, limits what the counts can show. Routes follow roads, so habitats that roads seldom reach, such as marshes and rugged mountains, are poorly represented. Traffic noise can drown out songs, and some species are attracted to roadside habitats. If land beside roads is developed while the surrounding landscape changes little, a decline recorded on the routes may not represent a decline across the region.
+
+Observers add a further source of variation. People differ in hearing ability and in experience, so two volunteers on the same route might not record the same birds. Well-trained observers tend to produce comparable results, but the counts remain an index of change rather than a complete census. They are most informative when researchers ask how numbers are changing, and least reliable when they are treated as an exact total of the birds present.
+@endtext
+@note Source: original text written for this paper; facts from U.S. Geological Survey pages on the North American Breeding Bird Survey (public domain).
+@link https://script.google.com/macros/s/AKfycbyS__BUxukFdKTkC2SfmbjI881jsVBieIk5lLpzCX0iKKpkLYLz0YttIdAdtmjNvhZJ/exec | ✎ WRITE IN MR TEE WRITING STUDIO
+
+@task Task 2 · Essay (3 marks)
+@instructions Write an essay of 300–350 words. Develop a clear position, explain your reasons and support them with relevant examples.
+@text
+Some people argue that competitions encourage young people to develop their abilities. Others believe that cooperation should play a greater role in education.
+
+To what extent should schools use competition to motivate students?
+@endtext
+@link https://script.google.com/macros/s/AKfycbyS__BUxukFdKTkC2SfmbjI881jsVBieIk5lLpzCX0iKKpkLYLz0YttIdAdtmjNvhZJ/exec | ✎ WRITE IN MR TEE WRITING STUDIO

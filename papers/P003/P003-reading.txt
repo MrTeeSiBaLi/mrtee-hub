@@ -1,0 +1,204 @@
+@paper Mr Tee HSG Practice Papers · P003 | Reading
+@section Reading · 3 tasks · 25 items
+@instructions Answer from the passages only, without outside knowledge. Answer every question in a task, then click CHECK ANSWERS.
+
+@task Task 1 · The judgement inside a ranking
+@instructions For questions 51–58, choose the correct letter A, B, C or D. Answer according to the passage, which discusses a hypothetical company.
+@text
+**A** A company is considering a computer system to shortlist job applicants. Its sales representative offers a reassuring demonstration: the programme produces a neat ranking in seconds. The hiring manager, however, asks a less comfortable question. What, exactly, is being ranked? A system can be highly consistent in applying a rule without that rule being appropriate. The appearance of order may settle a discussion before anyone has examined the judgement hidden inside it.
+
+**B** Suppose the system learns from records of people who were hired previously. Those records tell it whom the company selected, not necessarily whom it should have selected. Candidates who were rejected are absent from later performance reviews; nobody knows how they would have performed. Even among employees, opportunities differ. Someone assigned difficult projects may appear less successful than someone protected from them. A training set can therefore contain traces of institutional decisions masquerading as facts about individual ability.
+
+**C** These problems do not establish that a human shortlist would be fairer. An unaided manager can overlook qualified applicants, rely on a familiar school name or change standards without noticing. Replacing a programme with an intuition is not an adequate response to a defective measure. The useful comparison is between specified procedures, each with identifiable limitations. A demand that the new system be flawless while the old one escapes inspection is itself a way of preserving an unexamined judgement.
+
+**D** The company proposes keeping a person in charge of the final decision. This sounds like a safeguard, but its value depends on what that person can do. If the ranking arrives minutes before a deadline and no explanation can be requested, the reviewer may simply endorse it. Accountability cannot be created merely by placing a human signature beneath a recommendation. There must be time to investigate, authority to challenge and a record of why a recommendation was accepted or rejected.
+
+**E** A second safeguard is an appeal. Yet an applicant cannot challenge a mistaken description without knowing that it exists. Nor is an explanation useful if it is so general that it could have been sent to anyone. A meaningful appeal should identify the information used and offer a route for correcting factual mistakes. It need not disclose every technical detail of the software. The point is to give a person something relevant to contest, rather than a ceremonial invitation to disagree.
+
+**F** Testing also needs care. Imagine that the company runs the programme alongside its existing process but allows only the existing process to choose whom to hire. Agreement between the two rankings might be informative. It would not prove that either identifies the best future workers. Both could reproduce the same mistaken assumptions. Disagreement, similarly, is a starting point for investigation, not a verdict against the new method. The company must decide what outcome would count as improvement and what evidence could actually reveal it.
+
+**G** None of this requires abandoning the project. It requires refusing to confuse a purchasing decision with the completion of an evaluation. A tool may save administrative time, help reveal inconsistent criteria or make a process easier to audit. Those are real possibilities, but they are different claims. Before accepting the convenience of a single score, the company should separate them. A ranking is an answer to a question; responsible adoption begins by making sure it is the question worth asking.
+@endtext
+51. What concern does the hiring manager raise in paragraph A?
+A. Whether the ranking measures something relevant
+B. Whether the system can process applications quickly
+C. Whether the ranking applies its rule consistently
+D. Whether the ranking contains enough applicants
+ANS: A
+WHY: The manager asks "What, exactly, is being ranked?" A system can be "highly consistent in applying a rule without that rule being appropriate". The worry is whether the rule is the right one. B: speed is the salesperson's selling point. C: the text accepts the system is consistent. D: the number of applicants is not mentioned.
+52. Why are rejected applicants important to the argument in B?
+A. Their qualifications were probably inadequate
+B. Their later success proves that the company was wrong
+C. Their potential performance is missing from the records
+D. Their absence makes current employees' records unusable
+ANS: C
+WHY: "Candidates who were rejected are absent from later performance reviews; nobody knows how they would have performed." So the records cannot show whether rejecting them was right. A and B: the text says nothing about their ability or success. D: the text does not say the records are useless.
+53. The expression "institutional decisions masquerading as facts" in paragraph B implies that
+A. apparently neutral evidence can encode earlier choices about opportunities
+B. the company deliberately invented the employees' performance records
+C. the company should stop using records of earlier hires
+D. performance records reveal ability independently of working conditions
+ANS: A
+WHY: "Masquerading" = pretending to be something else. Records look like facts about ability, but "opportunities differ" – someone given difficult projects may look less successful. So the data hide earlier company choices. B: the records are real, not invented. C: the writer never says stop using them (G: "None of this requires abandoning the project"). D is the opposite of the paragraph.
+54. What is the writer's main point in paragraph C?
+A. Human intuition is an adequate response to defective measures
+B. A new system should be judged against a flawless standard
+C. Existing weaknesses excuse mistakes in a new system
+D. Both automated and existing procedures require scrutiny
+ANS: D
+WHY: "The useful comparison is between specified procedures, each with identifiable limitations." Both the human and the computer process must be examined. A contradicts "is not an adequate response". B: the writer criticises demanding that the new system be flawless. C: the writer does not say old faults excuse new ones.
+55. Which condition would most directly weaken the safeguard discussed in D?
+A. Reviewers can record why they reject a recommendation
+B. Reviewers must decide before they can investigate a ranking
+C. Reviewers can ask for an explanation of the recommendation
+D. Reviewers are authorised to challenge the programme
+ANS: B
+WHY: If "the ranking arrives minutes before a deadline", the reviewer "may simply endorse it". The safeguard needs "time to investigate". A, C and D are things the writer says make the safeguard stronger.
+56. In paragraph E, "ceremonial" suggests that the invitation to appeal may
+A. be unfair because it withholds the software's technical details
+B. be restricted to applicants with professional advisers
+C. appear to offer a remedy without enabling one
+D. replace factual correction with a public announcement
+ANS: C
+WHY: A "ceremonial" invitation looks like a real chance to disagree but gives the person nothing "relevant to contest". It is for show only. A is wrong: an appeal "need not disclose every technical detail". B and D are not mentioned.
+57. What does the proposed parallel trial in F fail to establish?
+A. Whether the two procedures rank applicants similarly
+B. Whether either ranking picks out the strongest future employees
+C. Whether the programme produces different recommendations
+D. Whether the new procedure can be compared with the old one
+ANS: B
+WHY: Agreement between the rankings "would not prove that either identifies the best future workers". A, C and D are things the trial CAN show: whether the rankings agree or disagree, and how the two methods compare.
+58. Which principle best captures the writer's overall position?
+A. Software should be purchased once technical mistakes have been removed
+B. Final managerial control is sufficient to legitimise automated selection
+C. Human and machine agreement should be the principal test of fairness
+D. A tool's claims and the standards for judging them need scrutiny
+ANS: D
+WHY: In G, a tool's benefits "are different claims", and "the company should separate them". The company must also decide what counts as improvement (F). A: G says buying is not the same as evaluating. B contradicts D (a human signature does not create accountability). C contradicts F (agreement proves nothing on its own).
+
+@task Task 2 · Reading time in timber
+@instructions For questions 59–63, choose TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not provide the information. For questions 64–67, write NO MORE THAN TWO WORDS from the passage.
+@text
+**A** A tree’s rings can provide more than a rough guide to its age. In the climates described here, growth changes during the season. Earlywood forms when growth is faster; latewood forms as growth slows. These contrasting layers together make one annual ring. Counting both layers separately would therefore count a single year twice.
+
+**B** Ring widths vary with growing conditions. A broad ring can reflect favourable conditions, while a narrow one may indicate stress. Moisture and temperature matter, but they are not the only influences: insects, fire and competition from nearby trees can affect growth too. A narrow ring is consequently a record requiring interpretation, not an automatic label for drought.
+
+**C** Researchers can extract a thin core rather than remove a complete section of a trunk. The sample provides a sequence of rings while limiting the amount of material taken. Samples from trees that grew in the same region may share distinctive patterns of wide and narrow rings. Matching these patterns is called crossdating. Overlapping sequences from living trees, dead trees and older timber allow a chronology to extend beyond the lifespan of any one living tree.
+
+**D** The method can also help date wooden structures. Once a beam’s rings have been matched to a chronology, its outermost surviving ring gives an important clue to when the tree stopped growing. At Aztec Ruins, researchers have used beams to investigate building activity and later replacement of damaged wood. The evidence has helped distinguish construction phases rather than treating the surviving structure as the product of a single moment.
+
+**E** Interpretation still matters. The date of the last surviving ring is evidence about wood, and a claim about a building must connect that evidence with the wood’s use. For example, if timber had been stored or reused before entering a structure, equating the tree’s final year with the building’s first year would be unjustified. This conditional example does not show that every beam was reused. It shows why a precise measurement and a justified historical conclusion are not quite the same achievement.
+@endtext
+@note Source: adapted from National Park Service, "Dendrochronology: The Study of Tree Rings" (D. Eakin & E. Horton, 2019) and Aztec Ruins National Monument, "Dendrochronology" (2022).
+59. Earlywood and latewood together form a single annual ring.
+A. TRUE
+B. FALSE
+C. NOT GIVEN
+ANS: A
+WHY: Paragraph A: "These contrasting layers together make one annual ring."
+60. A narrow ring can be taken as proof of drought.
+A. TRUE
+B. FALSE
+C. NOT GIVEN
+ANS: B
+WHY: Paragraph B says a narrow ring is "a record requiring interpretation, not an automatic label for drought". Insects, fire and competition can also cause it. The text contradicts the statement.
+61. Insect damage affects ring width more often than fire does.
+A. TRUE
+B. FALSE
+C. NOT GIVEN
+ANS: C
+WHY: Paragraph B lists "insects, fire and competition", but it never compares how often each one happens. So we cannot say TRUE or FALSE.
+62. By combining samples of different ages, researchers can build a record that goes back further than any single living tree.
+A. TRUE
+B. FALSE
+C. NOT GIVEN
+ANS: A
+WHY: Paragraph C: "Overlapping sequences from living trees, dead trees and older timber allow a chronology to extend beyond the lifespan of any one living tree."
+63. In paragraph E, the writer treats the reuse of beams at Aztec Ruins as an established fact.
+A. TRUE
+B. FALSE
+C. NOT GIVEN
+ANS: B
+WHY: The writer calls it a "conditional example" that "does not show that every beam was reused". It is only an "if" situation, not a proven fact.
+64. Besides moisture, what climatic factor is explicitly named as influencing growth?
+ANS: temperature
+WHY: Paragraph B: "Moisture and temperature matter." Insects, fire and competition are not climatic factors.
+65. What can researchers extract to reduce the amount of material removed?
+ANS: thin core | core
+WHY: Paragraph C: researchers "extract a thin core rather than remove a complete section of a trunk". "A complete section" is what they avoid taking.
+66. What term describes the matching of ring patterns?
+ANS: crossdating | cross-dating
+WHY: Paragraph C: "Matching these patterns is called crossdating." A _chronology_ is the result, not the name of the matching method.
+67. At Aztec Ruins, what has the evidence helped to distinguish?
+ANS: construction phases
+WHY: Paragraph D: "The evidence has helped distinguish construction phases rather than treating the surviving structure as the product of a single moment."
+
+@task Task 3 · A label that could be revised
+@instructions Six paragraphs have been removed. For questions 68–73, choose from paragraphs A–H the one which fits each gap. There are TWO extra paragraphs. Then answer questions 74–75 by choosing A, B, C or D.
+@text
+I had been invited to write a catalogue entry for a small exhibition of paintings. The curator sent me images that were sharp enough to reveal each crack in the varnish. I felt unusually well prepared. By the time I arrived at the store room, I had already drafted a confident paragraph about the restraint of one artist’s colours.
+
+[68]
+
+The conservator watched me compare the image on my tablet with the object on the table. She did not tell me which view was correct. Instead, she moved a lamp. A surface that had seemed uniformly brown began to separate into areas of uneven gloss. My confident adjective, restrained, was starting to look less like a description than an excuse for not looking closely.
+
+[69]
+
+I asked whether cleaning would reveal what the artist had really intended. She paused at the word really. There were records of earlier treatment, but the records did not explain every alteration. Some changes belonged to the object’s history; others prevented people from seeing the work. A decision to intervene required more than an attractive account of what might be underneath.
+
+[70]
+
+She showed me a small test area beside a part that had not been treated. The contrast was striking. I began imagining the whole picture transformed. She asked me to look again at the edge of the test. The result was evidence about that location, she said, not permission to extrapolate across the entire surface.
+
+[71]
+
+That distinction followed me back to my desk. I had been asked for a short entry, and short entries prefer clean stories. An artist chooses a colour; time conceals it; an expert restores it. The sequence offered a satisfying arc. It also made uncertainty look like a temporary obstacle that expertise would eventually remove.
+
+[72]
+
+The curator was willing to include a sentence about the treatment record. She was less sure about my proposal to describe the limits of the evidence. Would that leave the reader with nothing to hold on to? I understood the worry. A label that merely announced our ignorance would be as unhelpful as one that pretended to know everything.
+
+[73]
+
+In the final entry, I kept the observation that the surface had changed, identified the evidence for it and stopped short of reconstructing an original appearance. The result was less dramatic than my first draft. It was also a description I could imagine revising without having to conceal the fact that I had revised it.
+@endtext
+@option A. Yet the professional beside me was not offering that ending. Her expertise consisted partly in knowing which questions the available evidence could not settle.
+@option B. That restraint did not mean doing nothing. It meant making each next action proportionate to what this particular test had established.
+@option C. My first task, then, was to replace a choice between certainty and silence with a statement whose confidence had a visible basis.
+@option D. What unsettled me was not simply that the photograph had changed the colours. I had allowed its apparent completeness to stand in for an encounter with the painting.
+@option E. The painting itself made that paragraph seem premature. Its surface absorbed the store-room light in a way no screen had prepared me for.
+@option F. This was not the simple division between an authentic picture and a layer of dirt that my question had assumed. The boundary itself had to be investigated.
+@option G. The catalogue therefore needed a more vivid reconstruction of the painter's intentions. If the treatment could not supply one, imagination would have to complete the work.
+@option H. In contrast, the curator proposed removing all discussion of treatment. A painting's history, she argued, was irrelevant to the exhibition.
+68. Gap [68]
+ANS: E
+WHY: Before the gap the writer has "drafted a confident paragraph". E says "that paragraph seem premature" when she sees the real painting in the store-room light. This leads to the conservator and the lamp in the next paragraph.
+69. Gap [69]
+ANS: D
+WHY: Before the gap she compares "the image on my tablet with the object". D reflects on this: the photograph's "apparent completeness" had replaced really looking at the painting. E cannot go here because it describes the first meeting with the painting.
+70. Gap [70]
+ANS: F
+WHY: Before the gap: some changes "belonged to the object's history; others prevented people from seeing the work". F says this is not the simple "authentic picture vs layer of dirt" that "my question" (about what the artist "really intended") assumed. "The boundary itself had to be investigated" leads to the test area.
+71. Gap [71]
+ANS: B
+WHY: Before the gap: the test was "evidence about that location … not permission to extrapolate". B explains this restraint: act in proportion to "what this particular test had established". After the gap, "That distinction" refers back to this idea.
+72. Gap [72]
+ANS: A
+WHY: Before the gap the writer imagines a clean story where "an expert restores it". A answers with "Yet … not offering that ending": the real expert knew which questions the evidence "could not settle". G cannot fit – the writer later refuses to reconstruct the original.
+73. Gap [73]
+ANS: C
+WHY: Before the gap: a label of pure ignorance would be as unhelpful as one that "pretended to know everything". C gives the solution: replace "a choice between certainty and silence" with a statement whose confidence has "a visible basis". H cannot fit: the curator was "willing to include a sentence about the treatment record".
+74. Why does the writer initially favour a simple story of restoration?
+A. It has already been established by the treatment records
+B. It suits the concise narrative form of a catalogue entry
+C. It reflects the conservator's promise of a complete restoration
+D. It is the curator's main condition for including the painting
+ANS: B
+WHY: "I had been asked for a short entry, and short entries prefer clean stories." A: the records "did not explain every alteration". C: the conservator made no such promise. D: the curator never asked for this.
+75. What does the final sentence imply about the writer's revised standard?
+A. A careful description need not be based on evidence
+B. Acknowledging uncertainty removes responsibility for a judgement
+C. Successful interpretation eventually recovers an uncontested original
+D. A defensible account can remain open to acknowledged correction
+ANS: D
+WHY: She wrote "a description I could imagine revising without having to conceal the fact that I had revised it". It is based on evidence but can be openly corrected. A: she "identified the evidence". B: she still makes a judgement. C: she "stopped short of reconstructing an original appearance".

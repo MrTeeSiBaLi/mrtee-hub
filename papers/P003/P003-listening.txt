@@ -1,0 +1,132 @@
+@paper Mr Tee HSG Practice Papers · P003 | Listening
+@base https://mrteesibali.github.io/mrtee-hub/audio/P003/
+@section Listening · 4 tasks · 25 items
+@instructions Practice mode: play each recording as many times as you need. Answer every question in a task, then click CHECK ANSWERS.
+
+@task Task 1 · A bakery changes its plans
+@audio P003-TASK1.mp3 | Recording 1
+@instructions For questions 1–6, choose the correct letter A, B, C or D.
+1. Why did Mina introduce advance orders?
+A. To attract customers from a wider area
+B. To replace the physical shop
+C. To plan production with less uncertainty
+D. To ease pressure on a crowded shop
+ANS: C
+WHY: Her real problem was "deciding how much to bake". Advance orders "gave us something firmer to work with" – they reduced uncertainty. A is wrong: she says people only _assume_ she wanted a bigger market. B is wrong: the shop still sells and nobody has to use the website. D is a trap: the shop was "already as busy as we could manage", but she did not start orders to make it less busy.
+2. What did Mina change after seeing the first website design?
+A. The amount of information requested
+B. The availability of telephone ordering
+C. The requirement to register before visiting
+D. The prices shown for individual products
+ANS: A
+WHY: "We asked for details we did not need. So we cut the form back to a name, a contact number and the order." She asked for less information. B is wrong: "We still take orders by phone." C is wrong: nobody has to use the website. D: prices are never mentioned.
+3. Why was the collection window extended?
+A. Customers had already lost several orders
+B. The original arrangement was too expensive
+C. The short window slowed down the handover
+D. The original arrangement overlooked customers' circumstances
+ANS: D
+WHY: The short window worked for the shop, but "For someone whose bus ran late, it was a different matter." It did not think about customers' situations. A is wrong: they widened it "before anyone actually lost an order". B is wrong: she says it was not to save on wages. C is the opposite: the short window did make the handover efficient ("It did, for us").
+4. The word "subscription" was removed because it
+A. suggested that the bread was unusually costly
+B. created false expectations about the service
+C. prevented customers from choosing individual items
+D. had to be supported by more detailed instructions
+ANS: B
+WHY: The word "made people expect a regular payment and a parcel selected for them. Neither was involved." People expected something that was not true. A: cost is not mentioned. C: customers do choose each item. D is the opposite: changing the name solved the problem; more instructions "would probably have made worse".
+5. What is Mina's reservation about the waste figures?
+A. They show no improvement in unsold stock
+B. They do not isolate the effect of advance ordering
+C. They lack a record from before the ordering began
+D. They were collected during an unusually quiet month
+ANS: B
+WHY: "We also reduced the range of bread during the same period, so I cannot give the ordering system all the credit." Two changes happened together, so she cannot see the effect of ordering alone. A is wrong: the number of unsold loaves fell. C is wrong: they compared "before and after". D is a trap: "a quieter month" is when she wants to test in the future.
+6. Mina's final response presents caution as
+A. accepting that promising ideas cannot be evaluated
+B. prioritising operational convenience over demand
+C. trusting customers' enthusiasm for promising ideas
+D. making the assumptions behind a proposal testable
+ANS: D
+WHY: She now asks "what would have to be true for it to work, and what evidence would persuade me that it was not working". She makes her assumptions clear so they can be checked. A is the opposite: she wants to evaluate ideas. B comes from an earlier answer about delivery, not her definition of caution. C is her OLD way of thinking ("whether an idea sounded promising").
+
+@task Task 2 · Decisions in a local newsroom
+@audio P003-TASK2-1.mp3 | Speaker 1
+@audio P003-TASK2-2.mp3 | Speaker 2
+@audio P003-TASK2-3.mp3 | Speaker 3
+@audio P003-TASK2-4.mp3 | Speaker 4
+@audio P003-TASK2-5.mp3 | Speaker 5
+@instructions For questions 7–11, match each speaker with the main lesson they learnt (A–H). Use each letter once only. There are THREE extra options.
+@option A. Distinguishing public relevance from an appetite for private detail
+@option B. Giving every source an identical amount of space
+@option C. Checking the origin and date of an image
+@option D. Preserving the degree of certainty in a source's claim
+@option E. Making a correction visible to earlier readers
+@option F. Rejecting material whenever its sender has an interest in the story
+@option G. Recognising that apparently conflicting figures measure different things
+@option H. Preferring the higher of two independent estimates
+7. Speaker 1
+ANS: C
+WHY: "The photograph was genuine, but it was not from the storm we were covering." Now the speaker asks "where and when a picture was made" first. F is a trap: the group sent the photo "in good faith", and the speaker did not reject them for that reason.
+8. Speaker 2
+ANS: E
+WHY: Readers "who had already shared the story would have no way of knowing" about a silent change, so the paper "added a correction explaining both the original mistake and the new figure".
+9. Speaker 3
+ANS: D
+WHY: The owner only "hoped eventually" to employ twenty people, but the headline said the café "would create" twenty jobs. "The number had survived editing; the uncertainty had not." G is a trap: there is only one number here, not two different measurements.
+10. Speaker 4
+ANS: A
+WHY: The private family details "might have made the story more absorbing, but they did not help explain whether the noise rules had been followed". The speaker kept only what the public needed. F is wrong: the resident was not rejected because of their interest in the story.
+11. Speaker 5
+ANS: G
+WHY: One count covered "everybody passing through the area over six hours"; the other was "a count at a single moment". They measured different things, so they were not really rival answers. B (equal space for both) and H (choosing the bigger number) are what the speaker decided NOT to do.
+
+@task Task 3 · Sending up a weather balloon
+@audio https://youtu.be/dLpyTodmfg8 | Recording 3 · National Weather Service video
+@note Source: National Weather Service, "Preparing and Launching a Weather Balloon", YouTube (https://youtu.be/dLpyTodmfg8). U.S. Government work, public domain. The questions below are written for this practice paper; they are not official NWS material.
+@instructions For questions 12–16, complete the notes. Write NO MORE THAN TWO WORDS from the recording for each answer. A hyphenated word counts as one word.
+12. The speaker calls the office's ________ programme a critical part of its everyday operations.
+ANS: upper air | upper-air
+WHY: The speaker opens with "The upper air program here at the National Weather Service is a critical part of our everyday operations." "Weather balloon" is not the name of the programme.
+13. Balloons are launched in almost any weather, including winter storms such as ________.
+ANS: blizzards
+WHY: They launch "rain or shine, hurricanes, blizzards…". A blizzard is a winter snowstorm. Hurricanes are not winter storms, and thunder and lightning are conditions when they do NOT launch. The plural fits "storms such as".
+14. Before launch, staff wait until the radiosonde detects the correct number of ________.
+ANS: satellites
+WHY: They "make sure that the radiosonde … is picking up the correct number of satellites". Trap: "sensors" is said just before, but staff check that the sensors are working – they do not count them.
+15. For about ninety minutes, staff ________ and monitor the incoming data.
+ANS: quality control | quality-control
+WHY: "And then we quality control and monitor the data for the next ninety minutes." Here "quality control" is used as a verb. "Monitor" is already in the sentence.
+16. For winter weather, the data also help forecasters to predict ________.
+ANS: rain-snow lines | rain-snow line | rain/snow lines
+WHY: The data "help with severe weather, rain-snow lines when it comes to winter weather". "Rain-snow" is one hyphenated word, so the answer is two words. Severe weather, temperature and dew point are not linked to winter weather.
+
+@task Task 4 · A coastal path survey
+@audio P003-TASK4.mp3 | Recording 4
+@instructions For questions 17–25, complete the notes. Write NO MORE THAN THREE WORDS from the recording for each answer.
+17. Partners should not ________ in order to cover more ground.
+ANS: split up
+WHY: "Do not split up to cover more ground: if you disagree … you need to discuss it while you are both there." "Change roles" is something partners SHOULD do.
+18. Write the ________ at the top of each sheet to identify the route.
+ANS: route letter | letter
+WHY: "Every route has a letter. Put that route letter at the top of each sheet." The starting time is also written, but it does not identify the route.
+19. Path surfaces must be recorded as firm, ________ or muddy.
+ANS: loose
+WHY: "We use three categories: firm, loose and muddy." Words like soft or rocky are not in the recording, and a comment is only for when no category fits.
+20. The width should be measured at the ________.
+ANS: narrowest point
+WHY: "Measure the narrowest point that a person would have to pass through, rather than the widest opening you can find."
+21. A photograph must be linked to the matching ________ on the sheet.
+ANS: record | record number | number
+WHY: "Each photograph needs the number of the matching record on your sheet." Without that link, photos are "almost useless".
+22. Assess the stream approach from the marked ________.
+ANS: viewing point
+WHY: "At the stream crossing, judge the approach from the marked viewing point." Surveyors are told they have "no instruction to cross the stream".
+23. If continuation is unsafe, record the ________.
+ANS: last safe point
+WHY: "If you cannot continue, record the last safe point and return by the same route." You need all three words – without "last", the place is different.
+24. Retain the ________ instead of replacing them with one tidy version.
+ANS: original sheets | two observers' sheets | observers' sheets
+WHY: "Do not immediately combine the two observers' sheets into a single neat version. Keep the original sheets." The team wants to see where descriptions differed.
+25. Submit the records at the ________.
+ANS: equipment desk
+WHY: "Please hand everything in at the equipment desk, not at reception." Reception is clearly rejected.

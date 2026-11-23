@@ -1,0 +1,138 @@
+@paper Mr Tee HSG Practice Papers · P003 | Use of English
+@section Use of English · 3 tasks · 25 items
+@instructions Answer every question in a task, then click CHECK ANSWERS to see your score and the explanations.
+
+@task Task 1 · Precision in context
+@instructions For questions 26–35, choose the option A, B, C or D that best completes each sentence.
+26. After cancelling the last bus, the company agreed to ______ the cost of a taxi so that the stranded passenger would pay nothing.
+A. solve
+B. spend
+C. cover
+D. charge
+ANS: C
+WHY: **cover the cost** = pay for it, so the passenger pays nothing. You _solve_ a problem, not a cost. You _spend_ money, not "spend the cost". _Charge_ the cost means ask someone to pay – the opposite meaning.
+27. The two teams will ______ forces to organise the exhibition.
+A. connect
+B. attach
+C. collect
+D. join
+ANS: D
+WHY: **join forces** = work together for a shared aim. It is a fixed collocation. Connect, attach and collect do not go with "forces" in this meaning.
+28. Please keep me ______ of any changes to the interview schedule.
+A. informed
+B. informative
+C. notifying
+D. knowledgeable
+ANS: A
+WHY: **keep someone informed of** something = keep giving them the latest news. _Informative_ describes a text that has a lot of information, not a person. _Notifying_ is active and does not fit the pattern. _Knowledgeable_ means "knowing a lot" (usually _about_).
+29. The new evidence has cast ______ on the accuracy of the original report.
+A. hesitation
+B. reservation
+C. doubt
+D. reluctance
+ANS: C
+WHY: **cast doubt on** something = make people less sure it is true. Hesitation, reservation and reluctance do not form the phrase "cast … on".
+30. We cannot reach a final decision until we have taken all the relevant factors into ______.
+A. thought
+B. consideration
+C. mind
+D. notice
+ANS: B
+WHY: **take something into consideration** = think about it before deciding. We say _bear in mind_ and _take notice of_, but not "into thought / into mind / into notice".
+31. Asked directly who had authorised the payment, the official gave vague and misleading replies. He was clearly ______ to avoid admitting the truth.
+A. prevaricating
+B. procrastinating
+C. digressing
+D. vacillating
+ANS: A
+WHY: **prevaricate** = avoid giving a direct, honest answer on purpose. This matches "vague and misleading replies … to avoid admitting the truth". _Procrastinate_ = delay doing work. _Digress_ = move away from the topic, without trying to mislead. _Vacillate_ = keep changing your mind between choices.
+32. Her argument is ______: it sounds persuasive, but its central comparison quietly assumes the very point she is trying to prove.
+A. tentative
+B. cursory
+C. specious
+D. equivocal
+ANS: C
+WHY: **specious** = seems right or convincing but is actually false. This matches "sounds persuasive, but…". _Tentative_ = not certain, careful. _Cursory_ = quick and not thorough. _Equivocal_ = unclear, with more than one possible meaning.
+33. The board gave her proposal its ______ approval: the minutes praised it, but only after every member had stressed how reluctant they were to support it.
+A. tacit
+B. grudging
+C. unqualified
+D. perfunctory
+ANS: B
+WHY: **grudging** = given unwillingly. This matches "how reluctant they were to support it". _Tacit_ = silent, not stated – but the minutes praised it openly. _Unqualified_ = complete, with no doubts – the opposite. _Perfunctory_ = done quickly without care; the sentence is about attitude, not care.
+34. The editor did not challenge the author's conclusion; she ______ with the misleading way in which the evidence had been presented.
+A. took issue
+B. made do
+C. took stock
+D. made light
+ANS: A
+WHY: **take issue with** = disagree with or object to. She accepted the conclusion but objected to the presentation. _Make do with_ = manage with what you have. _Take stock of_ = review a situation. _Make light of_ = treat as unimportant.
+35. When Leo admitted that his objections were trivial, he effectively ______ his own case against the scheme.
+A. vindicated
+B. forestalled
+C. substantiated
+D. undermined
+ANS: D
+WHY: **undermine** your own case = make your argument weaker. Saying your objections are trivial does exactly that. _Vindicate_ (prove right) and _substantiate_ (support with evidence) mean the opposite. _Forestall_ = prevent something before it happens.
+
+@task Task 2 · A journey without a fixed itinerary
+@instructions For questions 36–45, write ONE word in each gap. Use a word that makes the whole passage grammatically and logically coherent.
+@text
+For years, our walking club had planned its holidays down to the last bus connection. The result was reliable, but it left little room for curiosity. On one trip, we hurried past a small harbour because stopping would have meant missing the next stage. Nobody complained at the time. Afterwards, however, we remembered not the ground we had covered, (36) ______ the places we had been unable to explore.
+
+The following year, we chose a coastal region in (37) ______ several villages were linked by frequent buses. This gave us a practical way of changing direction without committing ourselves to an exhausting return walk. Rather (38) ______ book a different room for every night, we found a single base and agreed to decide each day’s route after breakfast. We checked opening hours and weather forecasts, but kept the afternoon free.
+
+At first, the absence of a printed schedule made us uneasy. We had handed (39) ______ responsibility for every decision to a timetable for so long that choosing a path felt strangely difficult. There were good reasons (40) ______ this discomfort. A detailed plan distributes expectations in advance; without one, different preferences have to be discussed while the day is already unfolding. We therefore took turns suggesting a destination and explaining (41) ______ made it worth visiting.
+
+On the third morning, a heavy shower appeared to justify all our doubts. Our chosen route followed an exposed headland, and we were reluctant to spend hours in the rain. Much (42) ______ our relief, the flexible arrangement now worked in our favour. We caught a bus inland, visited a small exhibition and returned to the coast when the sky cleared. Whether the change counted as a failure depended (43) ______ the purpose we assigned to the day: completing a route or enjoying a journey.
+
+We did not return believing that spontaneity could stand (44) ______ for preparation. The bus network, our common base and the information we had gathered had made the changes possible. What changed was our understanding of preparation itself. Its value lay as (45) ______ in keeping alternatives open as in making a single sequence of events run smoothly.
+@endtext
+36. Gap (36)
+ANS: but | just | only | rather
+WHY: The pattern is **not A but B**: we remembered "not the ground we had covered, but the places we had been unable to explore". _just_, _only_ and _rather_ are also accepted because they give the same correcting meaning.
+37. Gap (37)
+ANS: which
+WHY: After a preposition we use **which** for a place: "a coastal region **in which** several villages were linked". We cannot use _where_ or _that_ after _in_.
+38. Gap (38)
+ANS: than
+WHY: **Rather than** + bare infinitive = instead of: "Rather than book a different room for every night…".
+39. Gap (39)
+ANS: over | off
+WHY: **hand over responsibility to** someone/something = give them the job of deciding. _hand off … to_ (American English) is also accepted.
+40. Gap (40)
+ANS: for | behind
+WHY: **reasons for** something: "There were good reasons for this discomfort." _reasons behind_ is also correct.
+41. Gap (41)
+ANS: what | whatever
+WHY: **what** = the thing that. It is the subject of "made it worth visiting": "explaining what made it worth visiting". _whatever_ is also accepted.
+42. Gap (42)
+ANS: to
+WHY: **Much to our relief** = we were very relieved. Feelings use _to_: _to my surprise_, _to our relief_. Not _for_ or _of_.
+43. Gap (43)
+ANS: on | upon
+WHY: **depend on / upon** something. "Whether the change counted as a failure depended on the purpose…".
+44. Gap (44)
+ANS: in
+WHY: **stand in for** = replace, take the place of. Spontaneity could not replace preparation. _stand up for_ means "defend", which is wrong here.
+45. Gap (45)
+ANS: much
+WHY: **as much in A as in B** = equally in A and in B: "Its value lay as much in keeping alternatives open as in making a single sequence … run smoothly".
+
+@task Task 3 · Preserving meaning
+@instructions For questions 46–50, complete the second sentence using THREE TO SIX words, including the word given unchanged, so that it has a similar meaning to the first. Contractions count as two words; a possessive such as team's counts as one word. Type only the missing words.
+46. Nobody had told the visitors that the entrance had moved. → Key word: **BEEN** → The visitors ________ that the entrance had moved.
+ANS: had not been told | had never been told | had not yet been told | had not been informed | had never been informed | had not been notified | hadn't been told | hadn't been informed | had not been made aware
+WHY: Change active to **past perfect passive**: Nobody had told the visitors → The visitors **had not been told**. _were not told_ is not accepted because it does not use the key word BEEN.
+47. The moment she sat down, the alarm sounded. → Key word: **SOONER** → No ________ the alarm sounded.
+ANS: sooner had she sat down than | sooner did she sit down than
+WHY: **No sooner had + subject + past participle … than …** = immediately after. After "No sooner" we use inversion (_had she_), and the second part starts with **than** (not _when_).
+48. The rain forced us to postpone the outdoor concert. → Key word: **PUT** → We had ________ because of the rain.
+ANS: to put off the outdoor concert | to put the outdoor concert off | to put off the concert | to put the concert off
+WHY: forced us to = **we had to**; postpone = **put off**. _put out_ and _put away_ have different meanings.
+49. The rescue succeeded only because the team acted quickly. → Key word: **BUT** → ________ action, the rescue would have failed.
+ANS: but for the team's quick | but for the team's swift | but for the team's prompt | but for the team's rapid | but for the team's fast | but for the team's speedy | but for their quick | but for the quick
+WHY: **But for + noun phrase** = if it had not been for. "But for the team's quick action, the rescue would have failed." _team's_ counts as one word.
+50. I regret not asking for a copy of the agreement. → Key word: **WISH** → I ________ for a copy of the agreement.
+ANS: wish I had asked | wish that I had asked | wish I'd asked
+WHY: For a regret about the past, use **wish + past perfect**: I wish I had asked. _I wish I asked_ refers to the present, not the past.

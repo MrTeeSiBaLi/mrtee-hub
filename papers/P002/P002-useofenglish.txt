@@ -1,0 +1,133 @@
+@paper Mr Tee HSG Practice Papers · P002 | Use of English
+@section Use of English · 4 tasks · 25 items
+@instructions Answer every question in a task, then click CHECK ANSWERS. Spelling counts; capital letters do not.
+
+@task Task 1 · Lexical precision
+@instructions For questions 1–10, choose A, B, C or D. Only ONE option is correct.
+1. The two accounts are sharply ________ with each other: one places the meeting in May, the other in July.
+A. on hand
+B. at ease
+C. on course
+D. at odds
+ANS: D
+WHY: **At odds with** = in disagreement with. May and July cannot both be right, so the accounts disagree. On hand = available; at ease = relaxed; on course = going the right way.
+2. The issue is urgent because the future of the entire collection is ________.
+A. at stake
+B. on trial
+C. in turn
+D. in sight
+ANS: A
+WHY: **At stake** = at risk; it could be lost. That is why the issue is urgent. On trial = being judged in court; in turn = one after another; in sight = can be seen / is near.
+3. The public statement was carefully worded to ________ concern without promising an immediate solution.
+A. allocate
+B. attribute
+C. acknowledge
+D. acquaint
+ANS: C
+WHY: **Acknowledge concern** = accept that people are worried. You can say this without promising a solution. Allocate = share out; attribute needs "something **to** something"; acquaint needs "someone **with** something".
+4. The application has been held ________ pending the missing documents; it has neither been approved nor rejected.
+A. in abeyance
+B. in arrears
+C. under duress
+D. on sufferance
+ANS: A
+WHY: **In abeyance** = stopped for a time, waiting for a decision. "Pending" and "neither approved nor rejected" show this. In arrears = late with payments; under duress = forced; on sufferance = allowed but not really wanted.
+5. The committee invoked "local choice" only when residents agreed with it; in this context the phrase was an ________ for a decision already made.
+A. antidote
+B. alibi
+C. incentive
+D. impediment
+ANS: B
+WHY: Here **alibi** = an excuse or cover. The committee used "local choice" only when it suited them, so it was a cover for a decision they had already made. Antidote = a cure; incentive = a reason to act; impediment = an obstacle.
+6. The volunteers were asked to ________ a short questionnaire before the training began.
+A. take in
+B. fill in
+C. bring in
+D. give in
+ANS: B
+WHY: **Fill in** a form or questionnaire = write the answers in it. Take in = understand / deceive; bring in = introduce; give in = stop resisting.
+7. The report draws a useful ________ between access to information and the ability to evaluate it.
+A. division
+B. departure
+C. distinction
+D. diversion
+ANS: C
+WHY: **Draw a distinction between A and B** = show how two things are different. This is a fixed collocation. The other nouns do not go with "draw … between" in this meaning.
+8. After the second unexplained change, the editor's patience began to wear ________.
+A. thin
+B. on
+C. off
+D. down
+ANS: A
+WHY: **Patience wears thin** = someone slowly becomes less patient. "Wear on" is used for time passing; "wear off" for a feeling or effect fading; "wear down" = make someone tired.
+9. Although it looked like a concession, the final clause effectively ________ the earlier promise: the exception covered almost every case.
+A. vindicated
+B. ventilated
+C. vivified
+D. vitiated
+ANS: D
+WHY: **Vitiate** = make something weak or useless. If the exception covers almost every case, the promise means almost nothing. Vindicate = prove right; ventilate = discuss openly; vivify = make lively.
+10. The writer does not deny that the reform helped some people; her point is that this success cannot ________ a general claim that nobody was harmed.
+A. concede
+B. license
+C. solicit
+D. notify
+ANS: B
+WHY: Here **license** a claim = give good reason for it. Helping some people does not give us the right to say that nobody was harmed. Concede = admit; solicit = ask for; notify = inform officially.
+
+@task Task 2 · Word formation
+@instructions For questions 11–15, use the word in brackets to form ONE word that fits the gap.
+11. The new display is fully ________ to visitors who use wheelchairs. (ACCESS)
+ANS: accessible
+WHY: After "fully" and before "to" we need an adjective: **accessible to** = easy to reach or use.
+12. The witnesses gave ________ accounts: they could not both be correct about the date. (CONTRADICT)
+ANS: contradictory | contradicting
+WHY: An adjective before "accounts". **Contradictory** = disagreeing so that both cannot be true. "Contradicting" is also accepted.
+13. The museum appointed an expert to check the painting's ________ — whether it was genuinely the artist's work. (AUTHENTIC)
+ANS: authenticity
+WHY: After "the painting's" we need a noun. **Authenticity** = being real or genuine – exactly "whether it was genuinely the artist's work". "Authentication" is the process of checking, not the quality.
+14. Her explanation was remarkable for its ________: even readers unfamiliar with the topic could follow it. (LUCID)
+ANS: lucidity | lucidness
+WHY: After "its" we need a noun. **Lucidity** = clearness; easy to understand. "Lucidness" is less common but also correct.
+15. The team deliberately ________ the costs in its first draft, making the scheme appear cheaper than it was. (STATE)
+ANS: understated | misstated
+WHY: We need a past-tense verb. **Understate** = say something is smaller than it really is, so the scheme looked "cheaper than it was". "Misstated" (stated wrongly) is also accepted. "Overstated" gives the opposite meaning.
+
+@task Task 3 · Open cloze
+@instructions For questions 16–20, write ONE word in each gap.
+@text
+A replica may look convincing, but appearance is only part of (16) ________ gives an object its significance. An original bears traces of use (17) ________ cannot always be reproduced. This does not mean a copy is (18) ________ no value: it may allow people to handle a shape that would otherwise remain behind glass. The (19) ________ carefully the purpose is defined, the easier it becomes to judge the result. Had the museum explained that purpose from the outset, visitors (20) ________ not have mistaken the copy for a replacement.
+@endtext
+16. Gap (16)
+ANS: what
+WHY: **What** = "the thing that". "Part of **what** gives an object its significance". "Which" would need a noun before it.
+17. Gap (17)
+ANS: that | which
+WHY: A relative pronoun for "traces of use": traces **that/which** cannot be reproduced.
+18. Gap (18)
+ANS: of
+WHY: **Of no value** = worthless. "A copy is of no value."
+19. Gap (19)
+ANS: more
+WHY: **The more** carefully …, **the easier** … – the comparative pattern "the + comparative, the + comparative".
+20. Gap (20)
+ANS: would | could | might
+WHY: "Had the museum explained…" = "If the museum had explained…" (third conditional). The result part needs **would/could/might** + not have + past participle.
+
+@task Task 4 · Key-word transformations
+@instructions For questions 21–25, complete the second sentence so that it has the same meaning as the first. Use THREE TO SIX WORDS, including the word given. Do not change the key word. Contractions count as two words. Type only the missing words.
+21. It is possible that they sent the parcel to the wrong address. → Key word: **MAY** → They ________ the parcel to the wrong address.
+ANS: may have sent
+WHY: **May have + past participle** = it is possible that something happened in the past. "May send" would be about now or the future.
+22. We did not expect the exhibition to attract so many visitors. → Key word: **TOOK** → The number of visitors to the exhibition ________.
+ANS: took us by surprise | took us all by surprise | took us completely by surprise
+WHY: **Take someone by surprise** = happen when they do not expect it. Keep "us" for the people who were surprised.
+23. The guide said to us, "Please do not touch the original manuscript." → Key word: **ASKED** → The guide ________ the original manuscript.
+ANS: asked us not to touch | asked us to not touch
+WHY: Reported request: **ask someone not to do something**. Keep "us", because the guide spoke "to us".
+24. The director would not cancel the event under any circumstances. → Key word: **ACCOUNT** → On ________ cancel the event.
+ANS: no account would the director
+WHY: **On no account** = under no circumstances. A negative phrase at the start needs inversion: on no account **would the director** cancel…
+25. Someone repaired the roof for us last month. → Key word: **HAD** → We ________ last month.
+ANS: had the roof repaired | had our roof repaired
+WHY: **Have something done** = arrange for another person to do it. "We had repaired the roof" would mean we did it ourselves.

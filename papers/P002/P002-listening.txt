@@ -1,0 +1,130 @@
+@paper Mr Tee HSG Practice Papers · P002 | Listening
+@base https://mrteesibali.github.io/mrtee-hub/audio/P002/
+@section Listening · 4 tasks · 25 items
+@instructions Practice mode: play each recording as many times as you need. Answer every question in a task, then click CHECK ANSWERS.
+
+@task Task 1 · Translating for the stage
+@audio P002-TASK1.mp3 | Recording 1
+@instructions For questions 1–5, choose T if the statement agrees with the recording, F if it contradicts the recording, or NG if the information is not given.
+@option T. True – the statement agrees with the recording
+@option F. False – the statement contradicts the recording
+@option NG. Not Given – the recording does not say
+1. Maya changes the setting so that the play feels familiar to English-speaking audiences.
+ANS: F
+WHY: Maya says, "We keep the setting, but we sometimes alter the rhythm of a line." She changes the rhythm, not the setting.
+2. Reading the translation in rehearsal can lead to changes.
+ANS: T
+WHY: Her translation is only "a starting point". An actor may show her that a line is "almost impossible to say", and "Rehearsal is part of translation". So rehearsal can change the text.
+3. Maya travelled to the city specifically to prepare this production.
+ANS: F
+WHY: "I know the city from an earlier visit, but I did not travel there for this production." She used photographs and talked to a local person instead.
+4. The person Maya consulted had previously worked as a theatre actor.
+ANS: NG
+WHY: We only know that this person "grew up there". Nothing is said about his or her job, so we cannot say T or F.
+5. Maya regards effortless understanding as sufficient evidence of a successful translation.
+ANS: F
+WHY: She answers "Only up to a point." An easy translation may have "sanded away every awkward question". "Ease matters, but so does the productive discomfort…" So ease alone is not enough.
+
+@task Task 2 · Learning a craft
+@audio P002-TASK2-1.mp3 | Speaker 1
+@audio P002-TASK2-2.mp3 | Speaker 2
+@audio P002-TASK2-3.mp3 | Speaker 3
+@audio P002-TASK2-4.mp3 | Speaker 4
+@audio P002-TASK2-5.mp3 | Speaker 5
+@instructions For questions 6–10, match each speaker with the change that most helped them (A–G). Use each letter only once. TWO letters are extra.
+@option A. Seeing the unsuccessful steps behind expert decisions
+@option B. Spending more time practising on their own
+@option C. Having explicit conditions governing the work
+@option D. Receiving focused feedback after practice
+@option E. Feeling able to reveal uncertainty
+@option F. Becoming faster at a familiar task
+@option G. Experiencing a wider range of tasks
+6. Speaker 1
+ANS: D
+WHY: The help was "a five-minute conversation at the end of each session: one thing that had improved and one thing to try next" – short, focused feedback. B is a trap: "More time at the wheel, by itself, had not been enough."
+7. Speaker 2
+ANS: E
+WHY: An experienced carpenter asked a colleague for help, so the speaker "could admit that I did not understand" without feeling out of place. Admitting you don't understand = revealing uncertainty.
+8. Speaker 3
+ANS: A
+WHY: The new supervisor "showed me her discarded sketches and explained why she had abandoned them". The failed steps made "the judgments behind the result" visible.
+9. Speaker 4
+ANS: G
+WHY: "We now alternate jobs" – the speaker now does different kinds of work. F is a trap: becoming quick at one brake was the problem, because speed hid "how little I can transfer to a new one".
+10. Speaker 5
+ANS: C
+WHY: The mentor "wrote down my hours and what counted as paid work". These "clear terms" are explicit conditions for the work.
+
+@task Task 3 · Finding expertise outside the usual circle
+@audio P002-TASK3.mp3 | Recording 3
+@note Source: excerpts adapted from NASA APPEL Knowledge Services, _Small Steps, Giant Leaps_ podcast, Episode 36 "Crowdsourcing Innovation" (host Deana Nunley; guest Steve Rader), 27 May 2020; re-recorded for this paper.
+@instructions For questions 11–15, choose A, B, C or D.
+11. Rader identifies diversity as useful mainly because it
+A. helps established teams apply their tried and true methods
+B. brings different experience to an established problem
+C. gives NASA access to cheaper technical labour
+D. encourages experts to stay within their own domain
+ANS: B
+WHY: Rader says we need diversity and "getting outside of the normal study and the normal groups", because the usual groups "all kind of have the same experience". Outsiders bring new experience. A is the opposite: "tried and true methods" are the limitation. Cheap labour (C) is never mentioned.
+12. The farming example illustrates
+A. why NASA rejects ideas presented by other industries
+B. how farmers have benefited from NASA's research
+C. how an apparently unrelated solution may be adapted
+D. why drones are now essential to space missions
+ANS: C
+WHY: At first a farming technology seems "not helping us", but someone who knows both fields can say, "with just a few tweaks, we can … apply it to something at NASA." A is only the first reaction, not the point. B reverses the direction: the idea goes from farming to NASA.
+13. How should Rader's description of teams that have "plowed the ground well" be understood?
+A. As recognition that extensive expertise may still leave shared assumptions unchallenged
+B. As evidence that insiders have failed to communicate solutions they already possess
+C. As an explanation of why a team's accumulated knowledge makes its findings unreliable
+D. As a claim that prior expertise must be discarded before novelty becomes possible
+ANS: A
+WHY: "Plowed the ground well" is praise: these teams know their topic deeply. But they "have the same experience" and use "all the same assumptions", so nobody questions those assumptions. He never says their findings are unreliable (C) or that expertise must be thrown away (D).
+14. What does Rader say may motivate participants in a challenge?
+A. Enthusiasm for the organisation or subject
+B. Freedom from having to demonstrate their ideas
+C. The chance to join NASA's internal teams
+D. Interest in learning from previous failures
+ANS: A
+WHY: Participants "often have a passion about NASA or a passion about the domain". B is wrong: they spend time "proving it out and showing you what they've come up with". C and D are not mentioned as motives.
+15. What qualification does Rader add to accounts of successful crowdsourcing?
+A. Selection makes external experimentation valuable by converting each failed attempt into an internal success
+B. Failure becomes negligible once the organisation is responsible only for selecting useful entries
+C. The principal advantage of a crowd is its ability to demonstrate that internal failures were avoidable
+D. The efficient-looking result should be read alongside the many unseen failed attempts
+ANS: D
+WHY: "What's easy to miss is the often thousands of people that have actually tried … but have failed." He adds that this failure is "necessary". So behind each good result are many failures we do not see. Failed attempts do not become successes (A), and failure is not unimportant (B).
+
+@task Task 4 · Designing a night-sky comparison
+@audio P002-TASK4.mp3 | Recording 4
+@instructions For questions 16–25, complete the notes with NO MORE THAN THREE WORDS AND/OR A NUMBER from the recording. Type only the missing words.
+16. Observations at both sites would be made on the ________.
+ANS: same night
+WHY: "We would make the observations on the same night." Otherwise a change in weather could look like a difference between the sites.
+17. Researchers would first check the Moon's ________.
+ANS: phase
+WHY: "We would start by checking the phase of the Moon." A bright Moon can hide faint stars.
+18. Observers would allow ________ for their eyes to adjust.
+ANS: twenty minutes | 20 minutes
+WHY: "…allow twenty minutes for their eyes to adjust." You may write the number as a word or in figures.
+19. Charts would be read using a ________.
+ANS: red light
+WHY: "…we would use a red light rather than a bright white beam."
+20. Everyone would observe the same ________.
+ANS: constellation
+WHY: "…ask everyone to examine the same constellation." A different patch of sky would spoil the comparison.
+21. Observers would identify the ________ visible without a telescope.
+ANS: faintest star
+WHY: "Observers would record the faintest star they could see without a telescope."
+22. Each observer would receive a ________.
+ANS: paper chart
+WHY: "We would give each person a paper chart." A phone screen could disturb their night vision.
+23. The immediate visual problem caused by a badly aimed nearby lamp is ________.
+ANS: glare
+WHY: A light shining directly at an observer creates "a more immediate problem: glare". Sky glow is caused by lamps pointing upwards, so it is not the answer.
+24. Private sites require the ________.
+ANS: landowner's permission
+WHY: "We would obtain the landowner's permission before entering private property." Spell it with the apostrophe: landowner's.
+25. Reports would retain the ________, rather than only an average.
+ANS: individual records
+WHY: "…we would keep the individual records, not just the group average", because different observers can see different numbers of stars.

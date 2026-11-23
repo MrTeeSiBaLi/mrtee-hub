@@ -1,4 +1,4 @@
-/* MR TEE LEARNING HUB — Practice Paper Engine v1.3
+/* MR TEE LEARNING HUB — Practice Paper Engine v1.4 (adds @image; @option keys up to 3 letters, e.g. T/F/NG)
    Usage in a Google Sites "Embed code" block:
      <script src="https://USERNAME.github.io/REPO/engine.js"><\/script>
      <script type="text/plain" class="mt-paper"> ...paper data... <\/script>
@@ -56,6 +56,7 @@
   ".mt-task.in-tk{border-top:0;padding-top:4px;margin-top:0}" +
   ".mt-tools{display:flex;gap:10px;flex-wrap:wrap;margin:6px 0 14px}" +
   ".mt-part{margin:0}" +
+  ".mt-fig{margin:12px 0;text-align:center}.mt-fig img{max-width:100%;height:auto;border:1px solid #e3ded2}.mt-fig figcaption{font-family:Inter,Arial,sans-serif;font-size:12px;color:#666;margin-top:4px}" +
   ".mt-credit{font-family:Inter,Arial,sans-serif;font-size:12px;color:#777;margin-top:6px}";
 
   function esc(s) {
@@ -82,7 +83,7 @@
     var lines = src.replace(/\r/g, "").split("\n");
     var P = { title: "", kicker: "", sections: [], cards: [] }, sec = null, task = null, item = null, inText = null;
     function needSec() { if (!sec) { sec = { name: "", tasks: [] }; P.sections.push(sec); } }
-    function needTask() { needSec(); if (!task) { task = { title: "", instr: [], notes: [], audio: [], texts: [], opts: [], items: [], links: [] }; sec.tasks.push(task); } }
+    function needTask() { needSec(); if (!task) { task = { title: "", instr: [], notes: [], audio: [], texts: [], images: [], opts: [], items: [], links: [] }; sec.tasks.push(task); } }
     for (var i = 0; i < lines.length; i++) {
       var raw = lines[i], L = raw.trim();
       if (inText !== null) {
@@ -107,7 +108,8 @@
           task.audio.push(au);
         }
         else if (k === "text") { needTask(); inText = []; if (v) inText.push(v); }
-        else if (k === "option") { needTask(); var om = v.match(/^([A-Z])[.)]\s*(.*)$/); if (om) task.opts.push({ key: om[1], text: om[2] }); }
+        else if (k === "option") { needTask(); var om = v.match(/^([A-Z]{1,3})[.)]\s*(.*)$/); if (om) task.opts.push({ key: om[1], text: om[2] }); }
+        else if (k === "image") { needTask(); var im = v.split("|").map(function (x) { return x.trim(); }); task.images.push({ url: /^https?:/i.test(im[0]) ? im[0] : (P.base || "") + im[0], alt: im[1] || "", cap: im[2] || "" }); }
         else if (k === "link") { needTask(); var lk = v.split("|"); task.links.push({ url: lk[0].trim(), label: (lk[1] || "Open").trim() }); }
         else if (k === "cards") { P.cardsTitle = v; }
         else if (k === "card") { var c = v.split("|").map(function (x) { return x.trim(); }); P.cards.push({ word: c[0], mean: c[1] || "", ex: c[2] || "" }); }
@@ -151,6 +153,7 @@
     t.notes.forEach(function (x) { box.appendChild(el("div", "mt-note", fmt(x))); });
     t.audio.forEach(function (a) { box.appendChild(audioBlock(a)); });
     t.texts.forEach(function (x) { box.appendChild(el("div", "mt-text", fmt(x))); });
+    (t.images || []).forEach(function (im) { var f = el("figure", "mt-fig"), g = el("img"); g.src = im.url; g.alt = im.alt; g.loading = "lazy"; f.appendChild(g); if (im.cap) f.appendChild(el("figcaption", null, fmt(im.cap))); box.appendChild(f); });
     if (t.opts.length) {
       var o = el("div", "mt-opts");
       t.opts.forEach(function (op) { o.appendChild(el("div", null, "<b>" + op.key + ".</b> " + fmt(op.text))); });

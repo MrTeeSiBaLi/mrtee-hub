@@ -1,0 +1,17 @@
+@paper Mr Tee HSG Practice Papers · P002 | Writing
+@section Writing · 2 tasks · 5 marks
+@instructions Plan your answers here, then write and submit them in MR TEE WRITING STUDIO. Your teacher will give feedback there.
+
+@task Task 1 · Graph and data description (2 marks)
+@instructions The chart shows the estimated percentage of people using the Internet in six selected population groups in 2024. Summarise the information by selecting and reporting the main features, and make relevant comparisons. Write 150–200 words. The groups overlap and do not form parts of a single total.
+@image https://mrteesibali.github.io/mrtee-hub/images/P002/P002-W1-chart.png | Bar chart: estimated Internet use in 2024 – High-income countries 93%, Arab States 70%, World 68%, Asia-Pacific 66%, Africa 38%, Low-income countries 27% | Source: data from International Telecommunication Union, _Measuring digital development: Facts and Figures 2024_ ("Internet use"); chart redrawn for this paper.
+@link https://script.google.com/macros/s/AKfycbyS__BUxukFdKTkC2SfmbjI881jsVBieIk5lLpzCX0iKKpkLYLz0YttIdAdtmjNvhZJ/exec | ✎ WRITE IN MR TEE WRITING STUDIO
+
+@task Task 2 · Essay (3 marks)
+@instructions Write 300–350 words. Develop your position with reasons and relevant examples.
+@text
+When schools prepare young people for an uncertain future, depth of knowledge matters more than the ability to adapt to new situations.
+
+To what extent do you agree or disagree?
+@endtext
+@link https://script.google.com/macros/s/AKfycbyS__BUxukFdKTkC2SfmbjI881jsVBieIk5lLpzCX0iKKpkLYLz0YttIdAdtmjNvhZJ/exec | ✎ WRITE IN MR TEE WRITING STUDIO

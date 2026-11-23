@@ -1,0 +1,207 @@
+@paper Mr Tee HSG Practice Papers · P002 | Reading
+@section Reading · 3 tasks · 25 items
+@instructions Read each text carefully. Answer every question in a task, then click CHECK ANSWERS.
+
+@task Task 1 · What a replica can preserve
+@instructions For questions 1–8, choose A, B, C or D.
+@text
+[1] A museum can make a remarkably convincing copy of an object and still fail to reproduce what matters about it. This is not a complaint about inaccurate colour or a slightly wrong shape. Those defects can sometimes be corrected. The harder question concerns the kind of relationship a visitor is being offered. To see a surface that resembles an ancient bowl is not quite the same experience as encountering a bowl that somebody once held. A replica and an original can look alike while making different claims on our attention.
+
+[2] That distinction need not amount to an argument against copies. If a fragile bowl must remain behind glass, a well-made replica could allow visitors to explore its weight, balance and handle. For someone who cannot examine the display visually, that opportunity may be particularly important. Here the copy is valuable because it provides an experience that the museum cannot responsibly offer with the original. It is not pretending to preserve every aspect of the original encounter.
+
+[3] Trouble begins when visual accuracy becomes the only test of success. A digital model may reproduce the geometry of a damaged surface, yet omit the explanation of why the damage matters. Was a mark made during manufacture, through everyday use, or by a later attempt at repair? The model does not answer merely by becoming more detailed. Interpretation involves deciding which features deserve notice and connecting them with evidence. More information and more understanding are related ambitions, not interchangeable achievements.
+
+[4] There is also a difference between keeping a file and preserving a usable resource. A model stored in a format that no available software can open is not made accessible by the fact that its bits remain intact. Someone must maintain descriptions, check copies and plan for technological change. This work attracts less attention than the moment of scanning, but it is part of what gives the scan a future. An institution that budgets only for acquisition has not yet budgeted for stewardship.
+
+[5] A replica may nevertheless take pressure off an object that would otherwise travel repeatedly. Several museums could display copies while the original remained in stable conditions. That possibility should be weighed against what audiences lose when all contact is mediated by reproduction. The choice need not be between unrestricted travel and permanent disappearance into storage. Carefully limited loans, local access and clearly labelled copies may serve different purposes within the same collection.
+
+[6] Honest labelling is therefore more than a technical nicety. It tells visitors what sort of evidence stands before them. A copy need not apologise for being a copy, but it should not borrow the authority of age through ambiguity. The most useful question is not whether a replica is as good as the original in every respect. It is which experiences it makes possible, which claims it can support, and which losses remain. A convincing substitute becomes an educational resource when its limits, as well as its achievements, are made intelligible.
+@endtext
+1. What distinction is introduced in paragraph 1?
+A. A replica fails when its colour or shape is inaccurate
+B. Visual defects in copies are usually impossible to correct
+C. Visitors pay closer attention to originals than to copies
+D. Similarity of appearance does not guarantee the same historical encounter
+ANS: D
+WHY: "A replica and an original can look alike while making different claims on our attention." Looking the same is not the same experience as meeting "a bowl that somebody once held". A is wrong: "This is not a complaint about inaccurate colour…". B is wrong: "Those defects can sometimes be corrected."
+2. What advantage of a replica is identified in paragraph 2?
+A. It can make handling possible without risking the original
+B. It offers a clearer view of the object than the original
+C. It preserves every aspect of the original encounter
+D. It allows the original to be removed from display
+ANS: A
+WHY: The fragile bowl stays "behind glass", but a replica lets visitors "explore its weight, balance and handle". The benefit is touching, not seeing better (B). C is wrong: the copy "is not pretending to preserve every aspect".
+3. The example of damage in paragraph 3 illustrates the need for
+A. a digital model that records more detail
+B. repairing damage before an object is scanned
+C. interpretation that connects features with evidence
+D. accepting that the cause of damage cannot be known
+ANS: C
+WHY: "Interpretation involves deciding which features deserve notice and connecting them with evidence." A is wrong: "The model does not answer merely by becoming more detailed." B and D are not said.
+4. What does paragraph 4 say is necessary after a digital model is created?
+A. The scan must be repeated whenever software changes
+B. The original object no longer needs to be preserved
+C. Resources must be devoted to keeping it usable
+D. The model must be stored in a single fixed format
+ANS: C
+WHY: "Someone must maintain descriptions, check copies and plan for technological change", and the institution must budget "for stewardship". A is a trap: we plan for change; we do not scan again. D goes against planning for new formats.
+5. How does the writer approach the movement of original objects?
+A. Different combinations of access and protection are possible
+B. Original objects are best kept permanently in storage
+C. Originals should travel widely so more audiences can see them
+D. Copies are less useful than originals for local visitors
+ANS: A
+WHY: "The choice need not be between unrestricted travel and permanent disappearance into storage." Limited loans, local access and labelled copies can be mixed. B and C are the two extremes the writer rejects.
+6. What is the main role of labelling in the final paragraph?
+A. To apologise for the limitations of a copy
+B. To give a copy the authority of an older object
+C. To show that a replica is as good as the original
+D. To clarify what kind of evidence the visitor is encountering
+ANS: D
+WHY: Labelling "tells visitors what sort of evidence stands before them". A is wrong: "A copy need not apologise". B is wrong: it "should not borrow the authority of age". C is wrong: that is "not" the useful question.
+7. What is implied by the claim that a copy should not "borrow the authority of age through ambiguity"?
+A. Age can legitimately supply a copy's authority if the physical resemblance is sufficient
+B. Ambiguous presentation can trade on a historical relationship the reproduction does not itself possess
+C. A label should privilege the material accuracy of a copy over its educational purpose
+D. Visitors must relinquish an interest in authenticity before benefiting from a reproduction
+ANS: B
+WHY: A copy is new; it has no long history of its own. If the label is unclear (ambiguous), visitors may think it is old and give it respect it has not earned. A accepts exactly what the writer criticises. D adds a condition the text never gives.
+8. Which principle best unites the discussion of handling, digital maintenance and labelling?
+A. A copy's value depends on what experience it offers and what it can claim
+B. Maintaining an original and maintaining a file impose equivalent kinds of institutional work
+C. A replica's educational value lies chiefly in minimising the differences visitors notice
+D. Technical fidelity should be secured before questions of purpose become relevant
+ANS: A
+WHY: All three ideas ask what a copy can do and what it can honestly say: "which experiences it makes possible, which claims it can support, and which losses remain." C goes against honest labelling; D puts purpose after technology, but the writer puts purpose first.
+
+@task Task 2 · What a playground is for
+@instructions For questions 9–13, choose Y if the statement agrees with the writer’s view or information, N if it contradicts it, or NG if it is not given. For questions 14–18, choose A, B, C or D.
+@text
+[1] Visit a newly built playground in many towns and you will find much the same design: low platforms, rounded corners, a soft surface underfoot and equipment that can be used in only one way. Each feature has a sensible origin. Taken together, however, they suggest that the main purpose of a playground is to prevent accidents. That aim deserves respect, but it is not the same as asking what children go there to do.
+
+[2] Children seldom treat a climbing frame as a piece of exercise equipment. They test how high they dare to go, invent rules with friends and change those rules when a game stops working. In doing so they practise judging their own abilities, which is difficult to learn from instruction alone. A structure that offers no uncertainty may be safe to use, but it leaves this judgement with nothing to work on.
+
+[3] It helps to separate two ideas that everyday speech often merges. A risk is a challenge that a child can see and choose to accept or refuse, such as a higher branch or a wider gap. A hazard is a danger the child cannot reasonably detect: a loose bolt, a sharp edge hidden under paint, a space in which a head could become trapped. Designers have every reason to remove hazards. Removing every risk is a different decision, and it should be argued for rather than assumed.
+
+[4] Why, then, does the cautious design keep returning? Part of the answer lies in who notices what. An injury produces a report, a complaint and possibly a claim for compensation. A child who grows bored and stops coming produces nothing at all. Those responsible for a playground are therefore far more likely to hear about the harm they failed to prevent than about the opportunity they quietly removed.
+
+[5] None of this means that adults should step back. Younger children need equipment matched to their size, and supervision matters most where a fall could be serious. Nor should a deliberate challenge be confused with neglect: a frame that is poorly maintained offers danger, not adventure. What is needed is a clearer account of why each feature is there, so that a challenge is kept on purpose and a hazard is removed on purpose.
+
+[6] A good playground, in other words, is not one where nothing can go wrong. It is one where children meet difficulties they can understand, attempt and sometimes fail at without lasting harm. Judging a playground only by the absence of accidents may reassure the people who manage it, yet it can overlook what the space was meant to offer. Safety is a condition for play; it should not become a substitute for it.
+@endtext
+@option Y. Yes – agrees with the writer’s view or information
+@option N. No – contradicts it
+@option NG. Not Given – the text does not say
+9. The writer accepts that there were good reasons for introducing each safety feature.
+ANS: Y
+WHY: The writer says, "Each feature has a sensible origin" – each one was added for a good reason. The criticism is only about what the features suggest "taken together".
+10. According to the writer, children can learn to judge their own abilities just as well by being told how.
+ANS: N
+WHY: The writer says this skill "is difficult to learn from instruction alone". Being told how is not enough, so the statement contradicts the text.
+11. The writer mentions a loose bolt as an example of a difficulty children can notice and decide to face.
+ANS: N
+WHY: A loose bolt is given as an example of a **hazard** – "a danger the child cannot reasonably detect" – not of a risk that a child can see and choose to accept.
+12. Complaints about playground injuries have increased in recent years.
+ANS: NG
+WHY: Paragraph 4 says an injury can lead to a complaint, but it says nothing about the number of complaints rising or falling.
+13. The writer sees safety as something that play cannot do without.
+ANS: Y
+WHY: "Safety is a condition for play" – play needs it. The writer only warns that safety should not become "a substitute" for play.
+14. What point does the writer make by describing how children use a climbing frame?
+A. A structure without uncertainty is unsafe for children to use
+B. Play involves children making and testing their own judgements
+C. Games usually break down unless an adult changes the rules
+D. Climbing frames are valued mainly as a form of exercise
+ANS: B
+WHY: Children "test how high they dare to go" and change their own rules, so they "practise judging their own abilities". A is wrong: such a structure "may be safe to use". C: children change the rules themselves. D: children "seldom" treat it as exercise equipment.
+15. How does the distinction between risk and hazard function in the writer’s argument?
+A. It shows that everyday speech is more precise than the language of design
+B. It suggests that children can be trusted to detect any danger they face
+C. It implies that designers should add new challenges to existing equipment
+D. It separates dangers that must go from challenges whose removal needs justifying
+ANS: D
+WHY: Hazards should be removed, but removing risks "should be argued for rather than assumed" – it needs a reason. A is the opposite: everyday speech "merges" the two ideas. B is wrong: a hazard is a danger the child "cannot reasonably detect". C is never suggested.
+16. According to paragraph 4, why do cautious designs continue to be built?
+A. Children who stop visiting a playground often make formal complaints
+B. Claims for compensation have made new playgrounds too costly to build
+C. Losses caused by removing challenge attract less notice than injuries do
+D. Bored children are more likely to injure themselves than busy ones
+ANS: C
+WHY: An injury "produces a report, a complaint", but a bored child who stops coming "produces nothing at all". So managers hear about harm, not about lost opportunities. A is the opposite. B and D are not stated.
+17. Which qualification does the writer add in paragraph 5?
+A. Older children should be given equipment designed for adults
+B. Adult involvement remains necessary, especially where falls could be serious
+C. A poorly maintained frame can still offer children a useful adventure
+D. Supervision matters less than matching equipment to a child’s size
+ANS: B
+WHY: "None of this means that adults should step back", and "supervision matters most where a fall could be serious". C is the opposite: such a frame "offers danger, not adventure". A is not stated. D: the text does not compare the two; both matter.
+18. Which interpretation best captures the scope of the writer’s argument?
+A. Preventing harm should not replace what makes a playground worthwhile
+B. Playgrounds should be judged by how many children continue to use them
+C. Children rather than designers should decide which hazards are acceptable
+D. Accident reports tend to exaggerate the dangers of conventional equipment
+ANS: A
+WHY: The writer keeps safety but warns that judging a playground "only by the absence of accidents" can "overlook what the space was meant to offer". B replaces one single measure with another single measure. C is wrong: hazards should be removed by designers. D is never claimed.
+
+@task Task 3 · Rescuing a flooded archive
+@instructions Seven paragraphs have been removed. For questions 19–25, choose from paragraphs A–H the paragraph which fits each gap. Use each letter once. ONE paragraph is extra.
+@text
+_When floodwater filled the basement of a small-town archive, the damage was obvious within hours. What was less obvious was how much more could be lost through hurried attempts to save it. A paper conservator describes the first weeks of the rescue._
+
+(19) ................................
+
+That record was put at risk in a single night. Heavy rain upstream raised the river faster than anyone had predicted, and by morning the basement stood under half a metre of muddy water. Volunteers arrived with buckets and good intentions, and within a day most of the boxes had been carried upstairs.
+
+(20) ................................
+
+Without that information, a page could be dried perfectly and still be almost useless. A letter separated from its envelope, or a plan separated from the ledger that explains it, loses much of its meaning. Our first decision was therefore not to dry anything until we had stopped the mixing.
+
+(21) ................................
+
+The ‘unknown’ table grew depressingly large in the first few days. Even so, keeping it separate meant that later research could reunite pages with their files, which would have been impossible if they had simply been slipped into the nearest folder.
+
+(22) ................................
+
+Freezing does not dry anything, and several volunteers found the idea absurd. Its purpose is to stop the clock. Once the bundles were frozen, they could wait safely until there was space, staff and equipment to treat them one at a time.
+
+(23) ................................
+
+At this stage a different temptation appeared. Several donors asked whether the stained pages could be cleaned until they looked as they had before the flood. It was a natural request, but bleaching or heavy cleaning would have weakened the paper and erased marks that might matter.
+
+(24) ................................
+
+That discovery changed how the volunteers saw their task. Instead of trying to make the collection look untouched, they began to keep notes on what the water had done: which boxes it had reached, how high it had risen and which repairs we had made.
+
+(25) ................................
+
+The council has since agreed to move the archive upstairs. The rescue itself is not finished, and some papers will never be readable again. But the most important lesson came early. In an emergency, the instinct is to save objects as quickly as possible. The first task, I now think, is to save the information that tells us what those objects are.
+@endtext
+@option A. So we set up a simple system. Each table was given a number that matched a shelf in the basement, and every bundle was placed on the table of its shelf, even if the papers were still dripping. Where the original position could not be traced, the bundle went to a separate table marked ‘unknown’, rather than to the place someone guessed.
+@option B. Those notes have since proved useful in a way none of us expected. When the council later discussed moving the archive, its members could see exactly which kinds of material had suffered most and which shelving had protected its contents.
+@option C. The archive occupied two rooms beneath the old town hall. On metal shelves sat parish registers, building plans, shop ledgers and boxes of letters donated by local families. Few visitors came, but the collection held the only written record of how the town had grown.
+@option D. That treatment was slower than anyone had hoped. Each bundle was thawed, separated sheet by sheet and laid between sheets of absorbent paper that had to be changed several times a day. Some ink had run; some pages had stuck together so firmly that they could only be parted with a thin blade.
+@option E. Fortunately, the most frequently consulted documents had been photographed some years earlier, so their contents would survive even if the originals did not. This made it easier to decide which boxes deserved attention first.
+@option F. Their speed was understandable, yet it created a problem of its own. Wet paper is heavy and soft, and many boxes had collapsed as they were lifted. Loose pages from different files were piled together on tables, and nobody had noted which shelf each box had come from.
+@option G. Some of those marks, in fact, already mattered. On one ledger the line left by the flood ran just below a much fainter brown line. A note in the margin, dated more than sixty years earlier, recorded that the river had entered the building once before. The stain we were being asked to remove was itself part of the town’s history.
+@option H. The next danger was time. Damp paper left at room temperature can begin to grow mould within a few days, and mould is far harder to deal with than mud. We could not dry thousands of pages by hand quickly enough, so the wettest bundles were wrapped in plastic and frozen.
+19. Gap (19)
+ANS: C
+WHY: C introduces the archive and its "only written record". The next paragraph begins "That record was put at risk…".
+20. Gap (20)
+ANS: F
+WHY: "Their speed" refers to the volunteers who carried the boxes upstairs "within a day". F ends with "nobody had noted which shelf", and the next paragraph begins "Without that information…".
+21. Gap (21)
+ANS: A
+WHY: "So we set up a simple system" follows the decision to stop the mixing. A creates the table marked 'unknown', which the next paragraph mentions: "The 'unknown' table grew…".
+22. Gap (22)
+ANS: H
+WHY: "The next danger was time" moves to a new problem. H ends with the bundles being frozen, and the next paragraph begins "Freezing does not dry anything…".
+23. Gap (23)
+ANS: D
+WHY: "That treatment" picks up "treat them one at a time" at the end of the paragraph before. Pages that are separated and dried lead to the next stage: requests to clean the stained pages.
+24. Gap (24)
+ANS: G
+WHY: "Some of those marks" refers to "marks that might matter". G describes the old note about an earlier flood, which the next paragraph calls "That discovery".
+25. Gap (25)
+ANS: B
+WHY: "Those notes" are the records the volunteers began to make. B mentions the council discussing a move, and the final paragraph says "The council has since agreed to move the archive upstairs." E is extra. It talks about earlier photographs, but no paragraph before or after any gap refers to them, and it would contradict the idea that the collection was "the only written record".

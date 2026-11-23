@@ -1,4 +1,4 @@
-/* MR TEE LEARNING HUB — Practice Paper Engine v1.1
+/* MR TEE LEARNING HUB — Practice Paper Engine v1.2
    Usage in a Google Sites "Embed code" block:
      <script src="https://USERNAME.github.io/REPO/engine.js"><\/script>
      <script type="text/plain" class="mt-paper"> ...paper data... <\/script>
@@ -244,6 +244,15 @@
   function boot() {
     if (!document.getElementById("mt-style")) { var st = el("style"); st.id = "mt-style"; st.textContent = CSS; document.head.appendChild(st); }
     document.querySelectorAll("script.mt-paper:not([data-done])").forEach(function (n) { n.setAttribute("data-done", "1"); try { render(n); } catch (e) { n.insertAdjacentHTML("afterend", "<p style='color:red'>Paper data error: " + esc(e.message) + "</p>"); } });
+    // Data kept as a file on GitHub: <div class="mt-paper" data-src="https://…/P001-listening.txt"></div>
+    document.querySelectorAll("div.mt-paper[data-src]:not([data-done])").forEach(function (n) {
+      n.setAttribute("data-done", "1");
+      n.innerHTML = "<p style='font-family:Arial;color:#666'>Loading…</p>";
+      fetch(n.getAttribute("data-src"), { cache: "no-cache" })
+        .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.text(); })
+        .then(function (txt) { n.innerHTML = ""; var h = document.createElement("script"); h.type = "text/plain"; h.textContent = txt; n.appendChild(h); render(h); })
+        .catch(function (e) { n.innerHTML = "<p style='color:red;font-family:Arial'>Could not load paper data (" + esc(e.message) + "): " + esc(n.getAttribute("data-src")) + "</p>"; });
+    });
   }
   // Run now and again later: some hosts (e.g. Google Sites embeds) write the page
   // without ever firing DOMContentLoaded. boot() is safe to call repeatedly.

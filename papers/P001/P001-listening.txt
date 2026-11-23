@@ -1,0 +1,149 @@
+@paper Mr Tee HSG Practice Papers · P001 | Listening
+@base https://mrteesibali.github.io/mrtee-hub/audio/P001/
+@section Listening · 4 tasks · 25 items
+@instructions Practice mode: play each recording as many times as you need. Answer every question in a task, then click CHECK ANSWERS.
+
+@task Task 1 · Repairing objects and claims
+@audio P001-TASK1.mp3 | Recording 1
+@instructions For questions 1–5, choose A, B, C or D.
+1. What does Ruth see as the café’s main purpose?
+A. To replace professional repair businesses
+B. To help owners understand their own equipment
+C. To train volunteers for commercial employment
+D. To complete repairs at the lowest possible cost
+ANS: B
+WHY: Ruth says owners stay with the volunteer and "leave knowing what failed and how to recognise the problem next time". The café teaches people; it is "not a cheap substitute" for a repair shop (so not D or A).
+2. Why are owners asked to explain the problem first?
+A. To confirm that a warranty has expired
+B. To establish whether they qualify for assistance
+C. To give the volunteer a starting point for teaching
+D. To assess the volunteer’s technical knowledge
+ANS: C
+WHY: "That gives the volunteer somewhere to begin." The description is a starting point for teaching. Nothing is said about warranties, qualifying for help or testing volunteers.
+3. Why does the café refuse electric heaters?
+A. It cannot carry out the necessary safety checks
+B. An earlier repair resulted in a serious accident
+C. Owners are unwilling to remain during repairs
+D. Commercial businesses complained about competition
+ANS: A
+WHY: "We had neither the equipment nor the qualified people to test them properly." B is a trap: Ruth says directly, "No accident prompted it."
+4. What made the market hall a better venue?
+A. It removed a financial burden
+B. It provided more room for each repair
+C. It offered a quieter teaching environment
+D. It attracted previously excluded visitors
+ANS: D
+WHY: At the market "people wander in while shopping" and "it reaches people we were missing". The old venue was free (not A), and the new room is "noisier and smaller" (not B or C).
+5. Ruth’s response to the council suggests that she prioritises
+A. making a defensible claim rather than maximising apparent impact
+B. persuading visitors to discard unused equipment sooner
+C. withholding results until every uncertainty disappears
+D. treating the weight of repaired items as waste conclusively prevented
+ANS: A
+WHY: "A modest figure we can defend is worth more than an impressive claim we cannot." She will still give the weights (not C), but she refuses to call them all prevented waste (not D).
+
+@task Task 2 · Keeping an oral-history archive
+@audio P001-TASK2-1.mp3 | Speaker 1
+@audio P001-TASK2-2.mp3 | Speaker 2
+@audio P001-TASK2-3.mp3 | Speaker 3
+@audio P001-TASK2-4.mp3 | Speaker 4
+@audio P001-TASK2-5.mp3 | Speaker 5
+@instructions For questions 6–10, match each speaker with the main lesson they have learnt (A–H). Use each letter only once. THREE letters are extra.
+@option A. The need to reconsider permission after publication
+@option B. The need to buy more reliable equipment
+@option C. The importance of testing sound in the actual setting
+@option D. The value of allowing unplanned material to emerge
+@option E. The importance of having contributors sign a form
+@option F. The need to make stored material discoverable
+@option G. The possible significance of conflicting memories
+@option H. The value of keeping several back-up copies
+6. Speaker 1
+ANS: D
+WHY: The speaker nearly cut a man's ten-minute story about the staff kitchen, then realised "those apparently incidental details" showed how he felt he belonged. Unplanned material was valuable.
+7. Speaker 2
+ANS: C
+WHY: A recorder with "excellent reviews" still picked up the announcements, not the speaker. Now they make "a short trial recording" first. B is a trap: the lesson is not to buy a better machine.
+8. Speaker 3
+ANS: A
+WHY: A story was already on the website when the contributor asked to remove it, and they took it down: "Permission should open a conversation about use, not close one." E is a trap: she had signed the form, but that was not the lesson.
+9. Speaker 4
+ANS: G
+WHY: Two people gave different dates. Now the speaker keeps "both versions" because "the disagreement may reveal how differently people experienced an event".
+10. Speaker 5
+ANS: F
+WHY: The recordings were "carefully backed up, but nobody … could find anything". Descriptions and tags made them usable. H is a trap: back-ups already existed.
+
+@task Task 3 · Hearing an ocean
+// TEACHER: add the excerpt start and end after the label, e.g.  | Excerpt | 0:35-3:10
+@audio https://www.fisheries.noaa.gov/s3/2023-06/blinded-noise.mp3 | NOAA Fisheries podcast: “Blinded by the Noise”
+@note Listen only to the excerpt that begins with “Whales and dolphins see the world very differently…” and ends with “…partially blinded”. Source: NOAA Fisheries, On the Line podcast, 3 September 2013 (host Rich Press; guest Sofie Van Parijs).
+@instructions For questions 11–15, choose A, B, C or D.
+11. Why is sound particularly useful to marine mammals?
+A. It depends on the presence of shipping traffic
+B. It can travel much farther through water than light
+C. It is available only at considerable depths
+D. It passes through water less effectively than through air
+ANS: B
+WHY: Sound waves "can go hundreds of miles" under water, while light "can only penetrate a few hundred feet". D says the opposite of what you hear.
+12. What does Van Parijs include among the functions of sound?
+A. Locating food and maintaining social interaction
+B. Reducing the pressure experienced at depth
+C. Regulating the temperature of the surrounding water
+D. Preventing ships from entering feeding grounds
+ANS: A
+WHY: "They use it for socializing. They use it for finding food. They use it for even navigating." Pressure, temperature and stopping ships are never mentioned.
+13. The structures described as “acoustic fat” are important because they
+A. protect animals from changes in water temperature
+B. repair damage caused by intense pulses of noise
+C. generate the low frequencies produced by ships
+D. help collect and concentrate incoming sound
+ANS: D
+WHY: The fatty tissue forms "acoustic chambers and lenses" that collect and focus sound. It is not about keeping warm (A) or repairing damage (B).
+14. How does the host’s account of his initial reaction function?
+A. It uses personal uncertainty to transfer responsibility for judgment to the audience
+B. It stages a likely objection and then revises the assumptions on which it rests
+C. It contrasts a subjective reaction with evidence whose relevance he leaves unresolved
+D. It grants a dismissive response some validity before narrowing the scientists’ claims
+ANS: B
+WHY: He first voices a common reaction ("whatever, it's a bit of noise"), then corrects it: "But then I found out just how sensitive…". He does not keep any of the dismissive view (not D) and he reaches a clear conclusion (not A or C).
+15. What is achieved by the host’s final description of animals as “partially blinded”?
+A. It shifts the issue from communication between animals to the visibility of vessels
+B. It suggests that disrupted hearing can be compensated for by underwater vision
+C. It renders loss of access through sound in terms of a human sensory dependency
+D. It presents reduced vision as a consequence accompanying damage to hearing
+ANS: C
+WHY: At the start he says humans depend on sight while whales depend on sound. "Partially blinded" uses our sense (sight) to help us imagine their loss of hearing. It is a comparison, not real damage to their eyes (not D).
+
+@task Task 4 · Planning a public-square study
+@audio P001-TASK4.mp3 | Recording 4
+@instructions For questions 16–25, complete the notes with NO MORE THAN THREE WORDS AND/OR A NUMBER taken from the recording.
+16. The uncovered square would serve as the ________.
+ANS: control site | control
+WHY: "The second square would act as our control site." It is the comparison site with no shade.
+17. Sensors would be installed at the same ________.
+ANS: height
+WHY: "Both instruments would be placed at the same height."
+18. Each instrument would be housed in a protective ________.
+ANS: screen
+WHY: "…each would stand inside a protective screen with air able to pass through." Here a screen is a cover, not a computer screen.
+19. Air temperature would be recorded every ________.
+ANS: fifteen minutes | 15 minutes
+WHY: "We would record air temperature every fifteen minutes."
+20. Besides temperature, researchers would also record ________.
+ANS: cloud cover
+WHY: "We would record cloud cover as well as temperature." "Heavy rain" is only an example in the maintenance log, not something they record.
+21. A ________ would show, for example, when a sensor had stopped working.
+ANS: log of maintenance | maintenance log
+WHY: "We would also keep a log of maintenance: for instance, if a sensor stopped working…". "A log of maintenance" is four words — too many with "A" already in the sentence.
+22. Besides seating use, researchers would note visitors’ ________.
+ANS: length of stay
+WHY: "…we would note their length of stay." Staying shows real use; passing through does not.
+23. Before interviewing someone, researchers would obtain ________.
+ANS: verbal consent | consent
+WHY: "We would seek verbal consent before asking any questions."
+24. Attendance associated with ________ must be distinguished from the effect of shade.
+ANS: market days | market day | the market
+WHY: "If the shaded site were busier on market days, we would need to separate the effect of the market from the effect of shade."
+25. Researchers would publish the ________ so that others could repeat the study.
+ANS: measurement method | method
+WHY: "We would therefore publish the measurement method alongside any conclusions, so that somebody else could repeat…"

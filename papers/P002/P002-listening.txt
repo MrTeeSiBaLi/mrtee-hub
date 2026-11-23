@@ -5,6 +5,27 @@
 
 @task Task 1 · Translating for the stage
 @audio P002-TASK1.mp3 | Recording 1
+@transcript Show transcript (listen first, then check)
+**Interviewer:** Your theatre company is performing a play in translation. Do you try to make it sound as though it was originally written in English, Maya?
+
+**Maya:** Not entirely. If we remove every unfamiliar reference, we also remove much of the world the play invites us into. On the other hand, a beautifully accurate sentence is no use if the audience is still trying to untangle it while the actors have moved on. We keep the setting, but we sometimes alter the rhythm of a line.
+
+**Interviewer:** So the version you deliver is the one the actors perform?
+
+**Maya:** It is a starting point. We read it aloud together, and an actor might show me that a line which looks natural on paper is almost impossible to say while turning away or carrying a suitcase. Rehearsal is part of translation, not merely a test of whether I got everything right beforehand.
+
+**Interviewer:** Have you been back to the city where the play is set?
+
+**Maya:** I know the city from an earlier visit, but I did not travel there for this production. Instead I worked with photographs and consulted someone who grew up there. Those conversations mattered more than getting every street name into the script.
+
+**Interviewer:** You chose not to explain one of the jokes. Did you think it would work without help?
+
+**Maya:** Not for everyone. An explanation would make its background clearer, but the explanation would interrupt an argument between the characters. I preferred a small loss of information to a large loss of momentum. Some people will miss the joke; that is a cost I have deliberately accepted.
+
+**Interviewer:** Would you agree, then, that a smooth performance proves a translation has been successful?
+
+**Maya:** Only up to a point. A translation can be wonderfully easy to follow because it has sanded away every awkward question in the original. Ease matters, but so does the productive discomfort the writer created. I want the audience to work a little on the right things, rather than struggle with a sentence simply because I have made it clumsy.
+@endtranscript
 @instructions For questions 1–5, choose T if the statement agrees with the recording, F if it contradicts the recording, or NG if the information is not given.
 @option T. True – the statement agrees with the recording
 @option F. False – the statement contradicts the recording
@@ -31,6 +52,17 @@ WHY: She answers "Only up to a point." An easy translation may have "sanded away
 @audio P002-TASK2-3.mp3 | Speaker 3
 @audio P002-TASK2-4.mp3 | Speaker 4
 @audio P002-TASK2-5.mp3 | Speaker 5
+@transcript Show transcript (listen first, then check)
+**Speaker 1:** At the pottery studio I was allowed to make bowls from the first week. The trouble was that I kept repeating the same mistake without knowing it. The useful change was a five-minute conversation at the end of each session: one thing that had improved and one thing to try next. More time at the wheel, by itself, had not been enough.
+
+**Speaker 2:** I thought the apprentice who asked the fewest questions was the one doing best. Then I watched an experienced carpenter stop and ask a colleague before cutting an expensive piece of wood. The atmosphere changed for me. I could admit that I did not understand without feeling I was confessing that I did not belong.
+
+**Speaker 3:** My first supervisor could draw perfectly, but I learnt very little from watching his finished work. A new supervisor showed me her discarded sketches and explained why she had abandoned them. Suddenly the judgments behind the result became visible. Expertise was no longer a mysterious gift that I either possessed or lacked.
+
+**Speaker 4:** For months I worked on the same type of bicycle brake. I became quick at it, which pleased the shop. But when a different model came in, I was lost. We now alternate jobs so that speed on a familiar task does not conceal how little I can transfer to a new one.
+
+**Speaker 5:** Visitors assumed I could stay late because I was learning. At first I agreed, anxious not to appear ungrateful. My mentor eventually wrote down my hours and what counted as paid work. Clear terms did not make the relationship colder. They meant that appreciation could no longer be used, however unintentionally, as a substitute for fair treatment.
+@endtranscript
 @instructions For questions 6–10, match each speaker with the change that most helped them (A–G). Use each letter only once. TWO letters are extra.
 @option A. Seeing the unsuccessful steps behind expert decisions
 @option B. Spending more time practising on their own
@@ -57,7 +89,20 @@ WHY: The mentor "wrote down my hours and what counted as paid work". These "clea
 
 @task Task 3 · Finding expertise outside the usual circle
 @audio P002-TASK3.mp3 | Recording 3
-@note Source: excerpts adapted from NASA APPEL Knowledge Services, _Small Steps, Giant Leaps_ podcast, Episode 36 "Crowdsourcing Innovation" (host Deana Nunley; guest Steve Rader), 27 May 2020; re-recorded for this paper.
+@note Source: excerpts adapted from NASA APPEL Knowledge Services, _Small Steps, Giant Leaps_ podcast, Episode 36 "Crowdsourcing Innovation" (host Deana Nunley; guest Steve Rader), 27 May 2020, https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-36-crowdsourcing-innovation/ ; re-recorded for this paper. NASA material, generally not subject to copyright in the United States; this paper is not endorsed by NASA.
+@transcript Show transcript (listen first, then check)
+**Host:** What is it that makes crowdsourcing such a significant catalyst for innovation?
+
+**Steve Rader:** Oh, that’s a great question. So innovation is one of these kind of interesting areas, right? In fact, we get a lot of eye rolls when we talk about it because a lot of people like to talk about innovation but it’s one of these kind of elusive things on how do you get it. But what we do know from a lot of the research and literature out there is that one of the things that’s important for finding those really useful, novel technologies and solutions is diversity and really getting outside of the normal study and the normal groups that do that because a lot of times those technical groups have really plowed the ground well, right, around a given topic here. So, they all kind of have the same experience in trying to solve a problem in a given domain. And what we find is that the most novel and most useful solutions often lie kind of outside of that domain and in either another area or in just the diverse thought that’s out there and so crowdsourcing is a really great way to find those people that have the experience maybe even in another domain or they can just see the problem differently and they can connect the dots.
+
+**Steve Rader:** But if we were to see those solutions, say there’s a farming technology which is combined drones and machine learning and maybe some other technologies, we might see a presentation about that and think, “Well, that’s great for them, that’s not helping us.” But someone who understands kind of the lingo and what’s going on in that domain and understands our domain can often connect the dots and say, “Oh no, with just a few tweaks, we can take this amazing technology they’ve come up with and apply it to something at NASA.” And, suddenly, we get this 5X, 10X improvement in our performance that we’re needing in order to solve the problem. And that kind of diversity is proving itself out over and over. We see lots of challenges where most of the time is being solved by somebody that’s not in the same domain as the challenge and a lot of times they’re bringing solutions that exist already. And what that provides for us is a much better starting point to then take that technology, that idea and build on it to go do some just really amazing stuff.
+
+**Host:** Why is it that solutions often come from someone outside the principal domain?
+
+**Steve Rader:** A lot of times the teams that are already attacking these problems, they are really using all the same assumptions. They’re using tried and true methods. And it’s hard for them to see what’s out there. It’s hard for them to connect the dots to other domains. And that’s where the crowd really is good at that. And on a crowdsourced challenge, which is kind of what we use to access this power of the crowd, we’ll put a prize or incentive out there. And the people that come in to work on these, they often have a passion about NASA or a passion about the domain that we’re working in and they’ll put in time coming up with a solution and proving it out and showing you what they’ve come up with in doing research, even doing some prototyping.
+
+**Steve Rader:** And what we find is—one of the things about innovation is that you’ve got to have lots of failure, right? You’ve heard that, fail early, fail often. When we do that internally, that’s an expensive proposition, it takes a lot of time. When we do a crowdsourced challenge, what we show over and over is that we actually get lots and lots of failure, right? Because you’re only going to actually select the ideas and designs that are going to be value add. What’s easy to miss is the often thousands of people that have actually tried to do something to solve your problem but have failed. And oftentimes it’s that failure that’s necessary.
+@endtranscript
 @instructions For questions 11–15, choose A, B, C or D.
 11. Rader identifies diversity as useful mainly because it
 A. helps established teams apply their tried and true methods
@@ -97,6 +142,19 @@ WHY: "What's easy to miss is the often thousands of people that have actually tr
 
 @task Task 4 · Designing a night-sky comparison
 @audio P002-TASK4.mp3 | Recording 4
+@transcript Show transcript (listen first, then check)
+**Astronomer:** Imagine that a school group is planning an evening to compare the night sky from two locations. This is a study design, not a report of completed observations. We would choose one site near the town centre and another beyond the built-up area. We would make the observations on the same night. Otherwise, a change in weather could look like a difference between the sites.
+
+**Astronomer:** We would start by checking the phase of the Moon. A bright Moon can hide faint stars even when the artificial lighting is limited. On arrival, observers would switch off their torches and allow twenty minutes for their eyes to adjust. If we needed to read a chart, we would use a red light rather than a bright white beam.
+
+**Astronomer:** For the comparison itself, we would ask everyone to examine the same constellation. Choosing a different patch of sky at each location would undermine the comparison. Observers would record the faintest star they could see without a telescope. We would give each person a paper chart. A phone display, unless carefully controlled, could interfere with the very adjustment we wanted to preserve.
+
+**Astronomer:** We would make a separate note of cloud cover. If cloud arrived halfway through, those observations would be marked as affected rather than quietly added to the rest. We would also record the direction of nearby lamps. A lamp pointing upwards may contribute to sky glow, but a badly aimed light shining directly at an observer can create a more immediate problem: glare.
+
+**Astronomer:** There are practical conditions as well. We would visit both places in daylight to check the ground and identify a safe route. We would obtain the landowner’s permission before entering private property. The group would remain together, and a supervising teacher would keep an attendance list. None of the measurements would justify taking risks beside a road.
+
+**Astronomer:** When reporting, we would keep the individual records, not just the group average. Different observers can see different numbers of stars because their eyesight and experience differ. A repeat visit with the same observers could help us decide whether an apparent difference was consistent. Finally, we would describe what our comparison cannot show. It might establish that one location offers a clearer view under the conditions observed; it would not, by itself, tell us which lighting policy would be cheapest or how every resident would respond to it.
+@endtranscript
 @instructions For questions 16–25, complete the notes with NO MORE THAN THREE WORDS AND/OR A NUMBER from the recording. Type only the missing words.
 16. Observations at both sites would be made on the ________.
 ANS: same night

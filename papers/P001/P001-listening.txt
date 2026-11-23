@@ -5,6 +5,27 @@
 
 @task Task 1 · Repairing objects and claims
 @audio P001-TASK1.mp3 | Recording 1
+@transcript Show transcript (listen first, then check)
+**Presenter:** A repair café sounds like a workshop where you hand over a broken appliance and collect it later. Is that how yours works, Ruth?
+
+**Ruth:** That was the model people had in mind, and it was the first thing we had to unpick. You stay with the volunteer. Ideally, you leave knowing what failed and how to recognise the problem next time. We do sometimes repair an item quickly, but we are not a cheap substitute for a commercial repair shop.
+
+**Presenter:** Did the volunteers object to teaching rather than simply getting on with the repair?
+
+**Ruth:** Some initially did. They could fix a loose connection in a minute and then spend twenty minutes explaining it. But a queue of beautifully repaired objects would tell us very little about whether anyone had learnt anything. We now ask the owner to describe the fault first. That gives the volunteer somewhere to begin.
+
+**Presenter:** I saw a notice asking people not to bring electric heaters. Was that a response to an accident?
+
+**Ruth:** No accident prompted it. We had neither the equipment nor the qualified people to test them properly. A working switch is not evidence that something is safe. Saying no was frustrating, but suggesting a professional service was the responsible thing to do.
+
+**Presenter:** You moved from the university to the market hall. Was the university charging too much?
+
+**Ruth:** It was free. The problem was the entrance: security desks and a long corridor made visitors feel they had come to the wrong place. At the market, people wander in while shopping. The room is noisier and smaller, but it reaches people we were missing.
+
+**Presenter:** Your council would like a figure for the weight of waste you have prevented. Can you give them one?
+
+**Ruth:** We can weigh the objects people take home. What we cannot honestly say is that every one would otherwise have been thrown away. Some owners had already kept them for years. I will provide the weights, but with that qualification. A modest figure we can defend is worth more than an impressive claim we cannot.
+@endtranscript
 @instructions For questions 1–5, choose A, B, C or D.
 1. What does Ruth see as the café’s main purpose?
 A. To replace professional repair businesses
@@ -48,6 +69,17 @@ WHY: "A modest figure we can defend is worth more than an impressive claim we ca
 @audio P001-TASK2-3.mp3 | Speaker 3
 @audio P001-TASK2-4.mp3 | Speaker 4
 @audio P001-TASK2-5.mp3 | Speaker 5
+@transcript Show transcript (listen first, then check)
+**Speaker 1:** When I started recording the railway workers, I kept steering them back to the questions I had prepared. A man spent ten minutes describing the smell of the staff kitchen, and I nearly cut it. Later I realised that those apparently incidental details were how he explained belonging. I still prepare questions, but I no longer confuse a tidy interview with a useful one.
+
+**Speaker 2:** Our recorder had excellent reviews. Unfortunately, in the station waiting room it picked up every announcement and almost none of the interviewee. We now make a short trial recording and listen to it before beginning. It sounds obvious, but checking the screen to see that the machine is running is not the same as checking what it records.
+
+**Speaker 3:** One recording was already on our website when the contributor asked us to remove a story about a former colleague. She had signed the form, but I did not think waving it at her would build trust. We took that section down. Permission should open a conversation about use, not close one.
+
+**Speaker 4:** I used to think that two people giving different dates meant one had failed us. Now I preserve both versions and explain the discrepancy. The disagreement may reveal how differently people experienced an event. That does not make every recollection factually correct, but it does mean that inconsistency is not automatically worthless.
+
+**Speaker 5:** The hours of interviews were there, carefully backed up, but nobody outside our tiny team could find anything. A volunteer added short descriptions and subject tags. Listeners can now locate a discussion without playing an entire afternoon’s recording. We had preserved the voices; we had not yet made them usable.
+@endtranscript
 @instructions For questions 6–10, match each speaker with the main lesson they have learnt (A–H). Use each letter only once. THREE letters are extra.
 @option A. The need to reconsider permission after publication
 @option B. The need to buy more reliable equipment
@@ -74,9 +106,23 @@ ANS: F
 WHY: The recordings were "carefully backed up, but nobody … could find anything". Descriptions and tags made them usable. H is a trap: back-ups already existed.
 
 @task Task 3 · Hearing an ocean
-// TEACHER: add the excerpt start and end after the label, e.g.  | Excerpt | 0:35-3:10
-@audio https://www.fisheries.noaa.gov/s3/2023-06/blinded-noise.mp3 | NOAA Fisheries podcast: “Blinded by the Noise”
-@note Listen only to the excerpt that begins with “Whales and dolphins see the world very differently…” and ends with “…partially blinded”. Source: NOAA Fisheries, On the Line podcast, 3 September 2013 (host Rich Press; guest Sofie Van Parijs).
+@audio https://www.fisheries.noaa.gov/s3/2023-06/blinded-noise.mp3 | Recording 3 · NOAA Fisheries podcast "Blinded by the Noise" | 0:00-3:20
+@note Authentic recording: the player plays only the first 3 minutes 20 seconds of the podcast (up to "…they become partially blinded"). Source: NOAA Fisheries, _On the Line_ podcast, "Blinded by the Noise—Whales and Dolphins in a Noisy Ocean", 3 September 2013 (host Rich Press; guest Sofie Van Parijs), https://www.fisheries.noaa.gov/podcast/blinded-noise-whales-and-dolphins-noisy-ocean. U.S. Government work, public domain. Courtesy: NOAA Fisheries.
+@transcript Show transcript of the excerpt (punctuation lightly edited)
+**Host:** Whales and dolphins see the world very differently than we do. We’re visual creatures and we use our sense of sight to navigate through the world, but marine mammals use sound to make sense of their world. That’s because sound waves travel really well under water—they can go hundreds of miles, much farther than they do in air. Light, on the other hand, can only penetrate a few hundred feet.
+
+**Host:** Over millions of years marine mammals have evolved to become exquisitely tuned instruments for both emitting and receiving sound. But unfortunately for them, the ocean is becoming an increasingly noisy place. We fill the water with the blare of military sonar, with blasts from air guns as we search for undersea oil, and with the never-ending thrum of shipping traffic. This increasing cacophony has gotten to the point where it has the potential to impact the health of many marine mammal populations.
+
+**Host:** Today we have two NOAA scientists on the line who research the effects of ocean noise on marine mammals. They’ll talk to us a bit about the problem, and also tell us about a project they’re working on that they hope will help. It’s an ocean mapping project called CETSOUND. That’s short for cetacean and sound mapping. The word cetacean just means whales and dolphins. Sofie Van Parijs is a marine mammal biologist at NOAA’s Northeast Fishery Science Center, and she’s one of the scientists working on CETSOUND. I asked Dr. Parijs why is sound so important to marine mammals.
+
+**Sofie Van Parijs:** I think the big thing to understand for marine mammals is that sound is their primary modality for any kind of communication and interaction. So they use it for socializing. They use it for finding food. They use it for even navigating, and that’s because sound travels much better through water than it does in air.
+
+**Host:** Now me, when I first heard about the problem of ocean noise, I was like, whatever, it’s a bit of noise. Get over it dolphin. But then I found out just how sensitive whales and dolphins, and many other types of marine mammals, are to sound. Their heads and jaws contain what scientists call acoustic fat. That specialized fatty tissue forms complex arrays of the acoustic chambers and lenses that collect and focus sound. When they’re hit with intense pulses of man-made sound it can damage those structures. And many species rely on their acute sense of hearing to accomplish the most basic tasks like finding prey and avoiding predators, maintaining pod structure, and finding mates.
+
+**Sofie Van Parijs:** For them sound is just a heightened sense, so they’re going to be able to use the sounds of everything around them, their entire environment. You know the sea floor, the other animals that are around, the waves crashing against the side of the ocean bed, as well as any shores. So they are using sound to really orientate themselves and understand what’s going on in their environment.
+
+**Host:** So in places where the ocean is filled with man-made noise, whales and dolphins become—the only way I can think of saying it—is they become partially blinded.
+@endtranscript
 @instructions For questions 11–15, choose A, B, C or D.
 11. Why is sound particularly useful to marine mammals?
 A. It depends on the presence of shipping traffic
@@ -116,6 +162,19 @@ WHY: At the start he says humans depend on sight while whales depend on sound. "
 
 @task Task 4 · Planning a public-square study
 @audio P001-TASK4.mp3 | Recording 4
+@transcript Show transcript (listen first, then check)
+**Lecturer:** Suppose a town wants to know whether shading a public square makes it more comfortable. I am going to describe a proposed study, not report results from one that has already happened. The first requirement is a comparison. We would take readings in the shaded square and in an uncovered square nearby. The second square would act as our control site. Comparing a shaded square in June with an unshaded one in December would tell us very little.
+
+**Lecturer:** Both instruments would be placed at the same height. A sensor fixed to a hot metal wall might mostly register the temperature of that wall, so each would stand inside a protective screen with air able to pass through. We would record air temperature every fifteen minutes. That frequency would let us see short-term variation without generating more data than our small team could handle.
+
+**Lecturer:** Weather matters too. We would record cloud cover as well as temperature because a cloudy afternoon can make a square cooler without any intervention. We would also keep a log of maintenance: for instance, if a sensor stopped working after heavy rain, we would preserve that information. We would label the missing readings rather than fill the gaps with invented measurements.
+
+**Lecturer:** Temperature would not be our only measure. We would count the number of people who sit down, and we would note their length of stay. Someone might pass through a square because it lies on the route to the bus station; choosing to remain there tells a different story. We would therefore distinguish passing pedestrians from people who actually use the seating.
+
+**Lecturer:** For a short questionnaire, visitors would be asked to rate their comfort. We would seek verbal consent before asking any questions. A refusal would end the conversation. We would not collect names or photographs. Nor would we assume that people who agree to speak represent everyone who visits: those in a hurry are precisely the people our approach might miss.
+
+**Lecturer:** Finally, we would compare similar days rather than simply calculate one grand average. If the shaded site were busier on market days, we would need to separate the effect of the market from the effect of shade. The purpose would be to inform a decision, not manufacture certainty. We would therefore publish the measurement method alongside any conclusions, so that somebody else could repeat the study and discover where our interpretation might fail.
+@endtranscript
 @instructions For questions 16–25, complete the notes with NO MORE THAN THREE WORDS AND/OR A NUMBER taken from the recording.
 16. The uncovered square would serve as the ________.
 ANS: control site | control

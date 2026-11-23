@@ -204,4 +204,4 @@ ANS: G
 WHY: "Some of those marks" refers to "marks that might matter". G describes the old note about an earlier flood, which the next paragraph calls "That discovery".
 25. Gap (25)
 ANS: B
-WHY: "Those notes" are the records the volunteers began to make. B mentions the council discussing a move, and the final paragraph says "The council has since agreed to move the archive upstairs." E is extra. It talks about earlier photographs, but no paragraph before or after any gap refers to them, and it would contradict the idea that the collection was "the only written record".
+WHY: "Those notes" are the records the volunteers began to make. B mentions the council discussing a move, and the final paragraph says "The council has since agreed to move the archive upstairs." E is the extra paragraph: no paragraph before or after any gap refers to photographs or to deciding which boxes to treat first, and every gap is already filled by a paragraph that links to its neighbours.

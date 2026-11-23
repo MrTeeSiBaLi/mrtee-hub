@@ -1,4 +1,4 @@
-/* MR TEE LEARNING HUB — Practice Paper Engine v1.5 (adds YouTube video in @audio; v1.4 added @image and T/F/NG option keys)
+/* MR TEE LEARNING HUB — Practice Paper Engine v1.6 (adds @transcript…@endtranscript, a click-to-open transcript; v1.5 added YouTube video in @audio; v1.4 added @image and T/F/NG option keys)
    Usage in a Google Sites "Embed code" block:
      <script src="https://USERNAME.github.io/REPO/engine.js"><\/script>
      <script type="text/plain" class="mt-paper"> ...paper data... <\/script>
@@ -20,6 +20,7 @@
   ".mt-audio{margin:8px 0;font-family:Inter,Arial,sans-serif;font-size:14px}" +
   ".mt-audio audio{width:100%;max-width:520px;display:block;margin-top:3px}" +
   ".mt-audio iframe{width:100%;max-width:520px;height:70px;border:0;display:block}" +
+  ".mt-tr{margin:10px 0}.mt-tr>summary{cursor:pointer;font-family:Inter,Arial,sans-serif;font-size:15px;font-weight:600;color:#333;padding:6px 0}" +
   ".mt-text{background:#fbfaf6;border:1px solid #e3ded2;padding:14px 18px;margin:10px 0;white-space:pre-wrap}" +
   ".mt-opts{font-family:Inter,Arial,sans-serif;font-size:15px;background:#fbfaf6;border:1px solid #e3ded2;padding:10px 14px;margin:10px 0}" +
   ".mt-opts div{margin:2px 0}" +
@@ -81,11 +82,16 @@
   /* ---------- parser ---------- */
   function parse(src) {
     var lines = src.replace(/\r/g, "").split("\n");
-    var P = { title: "", kicker: "", sections: [], cards: [] }, sec = null, task = null, item = null, inText = null;
+    var P = { title: "", kicker: "", sections: [], cards: [] }, sec = null, task = null, item = null, inText = null, inTr = null;
     function needSec() { if (!sec) { sec = { name: "", tasks: [] }; P.sections.push(sec); } }
-    function needTask() { needSec(); if (!task) { task = { title: "", instr: [], notes: [], audio: [], texts: [], images: [], opts: [], items: [], links: [] }; sec.tasks.push(task); } }
+    function needTask() { needSec(); if (!task) { task = { title: "", instr: [], notes: [], audio: [], texts: [], trs: [], images: [], opts: [], items: [], links: [] }; sec.tasks.push(task); } }
     for (var i = 0; i < lines.length; i++) {
       var raw = lines[i], L = raw.trim();
+      if (inTr !== null) {
+        if (/^@endtranscript\b/i.test(L)) { task.trs.push({ label: inTr.label, body: inTr.lines.join("\n").trim() }); inTr = null; }
+        else inTr.lines.push(raw);
+        continue;
+      }
       if (inText !== null) {
         if (/^@endtext\b/i.test(L)) { task.texts.push(inText.join("\n").trim()); inText = null; }
         else inText.push(raw);
@@ -107,6 +113,7 @@
           if (a[2]) { var r = a[2].split("-"); au.start = toSec(r[0]); if (r[1]) au.end = toSec(r[1]); }
           task.audio.push(au);
         }
+        else if (k === "transcript") { needTask(); inTr = { label: v.trim(), lines: [] }; }
         else if (k === "text") { needTask(); inText = []; if (v) inText.push(v); }
         else if (k === "option") { needTask(); var om = v.match(/^([A-Z]{1,3})[.)]\s*(.*)$/); if (om) task.opts.push({ key: om[1], text: om[2] }); }
         else if (k === "image") { needTask(); var im = v.split("|").map(function (x) { return x.trim(); }); task.images.push({ url: /^https?:/i.test(im[0]) ? im[0] : (P.base || "") + im[0], alt: im[1] || "", cap: im[2] || "" }); }
@@ -165,6 +172,10 @@
     t.notes.forEach(function (x) { box.appendChild(el("div", "mt-note", fmt(x))); });
     t.audio.forEach(function (a) { box.appendChild(audioBlock(a)); });
     t.texts.forEach(function (x) { box.appendChild(el("div", "mt-text", fmt(x))); });
+    (t.trs || []).forEach(function (tr) {
+      var d = el("details", "mt-tr"), sm = el("summary", null, "📄 " + esc(tr.label || "Show transcript"));
+      d.appendChild(sm); d.appendChild(el("div", "mt-text", fmt(tr.body))); box.appendChild(d);
+    });
     (t.images || []).forEach(function (im) { var f = el("figure", "mt-fig"), g = el("img"); g.src = im.url; g.alt = im.alt; g.loading = "lazy"; f.appendChild(g); if (im.cap) f.appendChild(el("figcaption", null, fmt(im.cap))); box.appendChild(f); });
     if (t.opts.length) {
       var o = el("div", "mt-opts");
@@ -294,7 +305,7 @@
     if (t[t.length - 1].trim()) head.appendChild(el("h1", null, fmt(t[t.length - 1].trim())));
     head.appendChild(el("p", "mt-instr", "Open any part you like. Finish a task, then click CHECK ANSWERS to see the answers and explanations."));
     var tools = el("div", "mt-tools");
-    function btn(txt, open) { var x = el("button", "mt-btn alt", txt); x.onclick = function () { b.querySelectorAll("details").forEach(function (d) { d.open = open; }); }; tools.appendChild(x); }
+    function btn(txt, open) { var x = el("button", "mt-btn alt", txt); x.onclick = function () { b.querySelectorAll("details:not(.mt-tr)").forEach(function (d) { d.open = open; }); }; tools.appendChild(x); }
     btn("EXPAND ALL", true); btn("COLLAPSE ALL", false);
     head.appendChild(tools); b.insertBefore(head, b.firstChild);
   }

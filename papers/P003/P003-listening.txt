@@ -5,6 +5,35 @@
 
 @task Task 1 · A bakery changes its plans
 @audio P003-TASK1.mp3 | Recording 1
+@transcript Show transcript (listen first, then check)
+**Interviewer:** You used to sell everything over the counter, Mina. Why did you introduce online orders?
+
+**Mina:** People assume I wanted a bigger market. In fact, the shop was already as busy as we could manage. What wore me down was deciding how much to bake. On wet Tuesdays we threw bread away; on sunny ones we apologised to people who had come a long way. Advance orders gave us something firmer to work with. They did not make the uncertainty disappear, but they reduced it.
+
+**Interviewer:** Did customers welcome the idea?
+
+**Mina:** Some did. Others thought you would need an account and a complicated password just to buy a loaf. Our first design rather justified their fears. We asked for details we did not need. So we cut the form back to a name, a contact number and the order. We still take orders by phone, and nobody has to use the website to shop here.
+
+**Interviewer:** Your collection window was originally just half an hour. Was that to save on wages?
+
+**Mina:** No, it was because I thought a short window would make the handover efficient. It did, for us. For someone whose bus ran late, it was a different matter. We widened it before anyone actually lost an order. It was a reminder that efficiency depends on whose time you count.
+
+**Interviewer:** I noticed you no longer call the service a subscription.
+
+**Mina:** That word made people expect a regular payment and a parcel selected for them. Neither was involved. They choose each item and pay only when they place an order. Changing the name solved a misunderstanding that another page of instructions would probably have made worse.
+
+**Interviewer:** Did you measure whether the new system cut waste?
+
+**Mina:** We compared the number of unsold loaves before and after it started. That number fell. But we also reduced the range of bread during the same period, so I cannot give the ordering system all the credit. I would like to test the two changes separately when we have a quieter month. For now, the numbers are encouraging, rather than conclusive.
+
+**Interviewer:** What about your plan to offer collection from other shops?
+
+**Mina:** One nearby shop is interested. I am tempted, but the difficulty is not persuading people to buy. It is making sure a loaf reaches the right counter at the right time. If we cannot do that reliably, a wider reach just gives us more places to disappoint people. We will run a small trial before announcing anything permanent.
+
+**Interviewer:** So the system has made you more cautious?
+
+**Mina:** More specific, perhaps. I used to ask whether an idea sounded promising. Now I ask what would have to be true for it to work, and what evidence would persuade me that it was not working. That is a less exciting conversation, but a more useful one.
+@endtranscript
 @instructions For questions 1–6, choose the correct letter A, B, C or D.
 1. Why did Mina introduce advance orders?
 A. To attract customers from a wider area
@@ -55,6 +84,17 @@ WHY: She now asks "what would have to be true for it to work, and what evidence 
 @audio P003-TASK2-3.mp3 | Speaker 3
 @audio P003-TASK2-4.mp3 | Speaker 4
 @audio P003-TASK2-5.mp3 | Speaker 5
+@transcript Show transcript (listen first, then check)
+**Speaker 1:** A campaign group sent us a photograph of a flooded street. It was dramatic, and we were about to use it. Then a colleague noticed that a shop sign belonged to a business that had closed years earlier. The photograph was genuine, but it was not from the storm we were covering. The group had forwarded it in good faith. We found a current image, and since then I have asked where and when a picture was made before asking how powerfully it tells the story.
+
+**Speaker 2:** We reported that the council had spent a certain sum on new benches. The figure was wrong: it included lighting as well. Once the council pointed that out, we fixed the online story. At first we were going to say nothing about the change. Then we realised that readers who had already shared the story would have no way of knowing. We added a correction explaining both the original mistake and the new figure. Making the page accurate was only part of repairing the record.
+
+**Speaker 3:** My headline said a new café would create twenty jobs. In the interview, the owner had actually said he hoped eventually to employ that many people. The number had survived editing; the uncertainty had not. Nobody had invented a figure, which made the error easy to defend as mere shorthand. But the headline had turned an aspiration into an announcement. I rewrote it. Accuracy can disappear without a single noun or number being false in isolation.
+
+**Speaker 4:** A resident wanted us to publish every email in a dispute over a noisy delivery yard. Some messages included private family details. They might have made the story more absorbing, but they did not help explain whether the noise rules had been followed. We kept the relevant exchanges and left those details out. The fact that someone is willing to give you material does not settle whether readers need to see all of it.
+
+**Speaker 5:** Two organisations gave us sharply different estimates of attendance at a street event. We could have presented both figures and called that balance. Instead, we asked how each count had been made. One included everybody passing through the area over six hours; the other was a count at a single moment. Publishing them as rival answers to one question would have manufactured a disagreement. We explained the two methods before using either number.
+@endtranscript
 @instructions For questions 7–11, match each speaker with the main lesson they learnt (A–H). Use each letter once only. There are THREE extra options.
 @option A. Distinguishing public relevance from an appetite for private detail
 @option B. Giving every source an identical amount of space
@@ -83,6 +123,7 @@ WHY: One count covered "everybody passing through the area over six hours"; the 
 @task Task 3 · Sending up a weather balloon
 @audio https://youtu.be/dLpyTodmfg8 | Recording 3 · National Weather Service video
 @note Source: National Weather Service, "Preparing and Launching a Weather Balloon", YouTube (https://youtu.be/dLpyTodmfg8). U.S. Government work, public domain. The questions below are written for this practice paper; they are not official NWS material.
+@note Transcript: open the video on YouTube, click **…more** under the video, then **Show transcript**. (YouTube's automatic captions may contain small errors.)
 @instructions For questions 12–16, complete the notes. Write NO MORE THAN TWO WORDS from the recording for each answer. A hyphenated word counts as one word.
 12. The speaker calls the office's ________ programme a critical part of its everyday operations.
 ANS: upper air | upper-air
@@ -102,6 +143,23 @@ WHY: The data "help with severe weather, rain-snow lines when it comes to winter
 
 @task Task 4 · A coastal path survey
 @audio P003-TASK4.mp3 | Recording 4
+@transcript Show transcript (listen first, then check)
+**Coordinator:** Before we go out, let me explain how our path survey works. For today’s training exercise, please use the route map supplied today rather than a map you happen to find online. Our purpose is to record access problems, not to produce a scenic guide. A spectacular view can wait; a barrier that prevents someone completing the route cannot.
+
+**Coordinator:** You will work in pairs. One person makes the measurements and the other writes them down, but change roles at the halfway point. That gives each of you experience of both jobs. Do not split up to cover more ground: if you disagree about what you are looking at, you need to discuss it while you are both there.
+
+**Coordinator:** Every route has a letter. Put that route letter at the top of each sheet. Write the starting time as well, because conditions can change. For the path surface, we use three categories: firm, loose and muddy. Please do not invent extra categories. If none seems adequate, write a comment underneath the table. It is easier to interpret a few agreed terms with comments than twenty private systems that sound more precise.
+
+**Coordinator:** Use the tape measure for gaps between posts or gates. Measure the narrowest point that a person would have to pass through, rather than the widest opening you can find. If a gate swings into the gap, include that in your description. A single width measurement will not tell the whole story, so a brief sketch may help.
+
+**Coordinator:** Take photographs of barriers, but avoid including people who have not agreed to appear. Each photograph needs the number of the matching record on your sheet. A collection of images without that link can be attractive and almost useless. If you cannot take a photograph safely from the path, leave it. Recording a hazard is not a reason to step into one.
+
+**Coordinator:** At the stream crossing, judge the approach from the marked viewing point. After heavy rain, a section may be unsafe even if it looked manageable last week. You have no instruction to cross the stream. If you cannot continue, record the last safe point and return by the same route. An incomplete survey that explains its own limits is more useful than a complete one that puts someone at risk.
+
+**Coordinator:** When you reach the centre, do not immediately combine the two observers’ sheets into a single neat version. Keep the original sheets. We want to know where descriptions differed as well as where they agreed. You can add a joint note explaining the difference. We are mapping obstacles in the landscape, but we are also checking which instructions produce consistent observations.
+
+**Coordinator:** Finally, please hand everything in at the equipment desk, not at reception. Return the tape measure there too. If you have an unfinished record, mark it incomplete and explain why. We would rather know what you did not establish than fill a blank with an assumption.
+@endtranscript
 @instructions For questions 17–25, complete the notes. Write NO MORE THAN THREE WORDS from the recording for each answer.
 17. Partners should not ________ in order to cover more ground.
 ANS: split up

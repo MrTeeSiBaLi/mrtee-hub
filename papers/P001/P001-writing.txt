@@ -3,8 +3,16 @@
 @instructions Plan your answers here, then write and submit them in MR TEE WRITING STUDIO. Your teacher will give feedback there.
 
 @task Task 1 · Summary (2 marks)
-@instructions Read the passage and summarise its account of how definitions of stress developed and what the transactional view adds. Write ONE paragraph of 120–150 words, using your own words as far as possible. Do not add advice, examples or claims not contained in the passage.
-@note The source passage for this task is provided by your teacher (printed copy or in your Writing Studio assignment).
+@instructions Read the passage and summarise how approaches to dictionary-making have developed and what corpus-based methods add, including their limits. Write ONE paragraph of 120–150 words, using your own words as far as possible. Do not add advice, examples or claims not contained in the passage.
+@text
+A dictionary can seem like a single, neutral authority, yet the purpose of dictionaries has been understood in different ways. Early dictionaries of English were often written to settle questions of correctness. Their compilers selected words they considered respectable, recommended particular spellings and pronunciations, and sometimes left out expressions they regarded as vulgar or unnecessary. Such works could make a language seem more stable, but they reflected the judgements of a small group of educated writers.
+
+A different approach treats the dictionary as a record rather than a rulebook. Descriptive lexicographers aim to show how words are actually used, including uses they may personally dislike. Instead of asking whether a meaning is acceptable, they ask whether it is established among speakers. This shift did not remove judgement entirely. Editors still had to decide which uses were typical and which were unusual, and for a long time they relied largely on quotations collected by hand from books and periodicals. Evidence of this kind favoured written, formal language, as well as the words that individual readers happened to notice.
+
+Corpus-based methods changed the scale of this evidence. A corpus is a large, searchable collection of texts, and modern corpora can include newspapers, recorded conversations, websites and academic writing. By searching it, editors can see how frequently a word occurs, which words commonly appear alongside it and which of its meanings are most common in different settings. Dictionaries for learners have benefited in particular, because they can present the most frequent meaning first and give examples that reflect typical patterns rather than sentences invented by an editor.
+
+A corpus, however, is only as representative as the texts chosen for it. If it contains far more journalism than speech, it will describe the language of journalism more fully. New words may also spread before they appear in enough texts to be noticed. Frequency, moreover, does not settle every question: a rare meaning may still matter to someone reading an older text. Corpus evidence therefore informs editorial decisions without replacing them. Its main contribution is to make those decisions answerable to a large body of observable usage rather than to individual preference alone.
+@endtext
 @link https://script.google.com/macros/s/AKfycbyS__BUxukFdKTkC2SfmbjI881jsVBieIk5lLpzCX0iKKpkLYLz0YttIdAdtmjNvhZJ/exec | ✎ WRITE IN MR TEE WRITING STUDIO
 
 @task Task 2 · Essay (3 marks)

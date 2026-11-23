@@ -1,5 +1,5 @@
 @paper Mr Tee HSG Practice Papers · P001 | Reading
-@section Reading · 3 tasks (Tasks 1–2 online now) · 18 items
+@section Reading · 3 tasks · 25 items
 @instructions Read each text carefully. Answer every question in a task, then click CHECK ANSWERS.
 
 @task Task 1 · Counting what counts
@@ -146,5 +146,67 @@ D. It subordinates individual needs to an administrative definition of useful be
 ANS: C
 WHY: The writer asks what would be lost without the rule, who would lose, and "whether the same purpose could be served less restrictively". The rule is defended only because of what it makes possible.
 
-@task Task 3 · So off she went to the circus
-@note This task is being revised and will be added soon.
+@task Task 3 · Learning how a bookshop works
+@instructions Seven paragraphs have been removed. For questions 19–25, choose from paragraphs A–H the paragraph which fits each gap. Use each letter once. ONE paragraph is extra.
+@text
+_When a former publisher took over the only bookshop in her village, she expected the hardest part to be money. In her account of the first year, she explains why she was wrong._
+
+I had worked in publishing for eleven years, so I assumed I understood books. When the owner of the village bookshop announced that she was retiring, I made her an offer within a week. My plan, written on the train home, had three parts: modernise the shop, clear out the slow-selling stock and start an online catalogue.
+
+(19) ................................
+
+It turned out that the chair was not furniture but an arrangement. Retired farmers sat in it to read a newspaper they had not paid for, and parents waiting for the school bus used the corner beside it as a place to leave a pushchair. The shop sold fewer books per hour than I had calculated, but it sold them to people who came back. I returned the chair to its corner that afternoon.
+
+(20) ................................
+
+Among them was a shelf of local walking guides, some so old that the paths they described had been diverted. I was about to tape the box shut when Mrs Okafor, who had run the shop for thirty years, stopped me. She did not argue. She simply asked me to look at who had bought the most recent copies.
+
+(21) ................................
+
+That changed how I read my own list. A title that sold twice a year might matter more than one that sold every week, if those two buyers had no other way of finding what they needed. Speed of sale was easy to measure, but it was only one way of judging whether a book belonged on the shelf.
+
+(22) ................................
+
+So I kept the notebook but changed how it was used. Orders now had to be paid for in advance, and I copied the reasons for purchases into a simple spreadsheet, so that useful patterns would no longer depend on one person's memory. Mrs Okafor teased me about the spreadsheet, but she also checked it every Friday.
+
+(23) ................................
+
+Most of those orders, however, came from cities hundreds of kilometres away, and each one had to be wrapped and posted. On busy days I spent more time at the post office than behind the counter, and regular customers began to find the door locked at lunchtime.
+
+(24) ................................
+
+The catalogue now earns less than it did in its first month, but the door stays open. More surprisingly, it has become a way for people who have moved away from the village to keep in touch: several of my online customers are former residents who order the same local guides that newcomers buy in person.
+
+(25) ................................
+
+Mrs Okafor still comes in on Fridays. Last week she sat in the armchair, read the newspaper and, before leaving, bought a walking guide for a neighbour's nephew who is moving here in the summer. I wrote the reason in the notebook myself.
+@endtext
+@option A. The answer was in a notebook kept under the till. In neat handwriting, she had recorded not only each sale but the reason a customer gave for it: a new grandchild, a long stay in hospital, a first visit to the area. The walking guides had been bought almost entirely by people who had just moved to the village.
+@option B. I sent the boxes to the charity shop that evening, and within a month the empty shelf had been filled with new novels that sold within days. It was the first clear sign that the plan was working.
+@option C. The third part of my plan, the online catalogue, finally went live in the spring. Within a month it had brought in more orders than the shop had taken in the whole of the previous winter.
+@option D. The first part of that plan lasted until my second morning. I had repainted the walls a fashionable grey and moved an old armchair into the storeroom to make space for a display table. By eleven o'clock, three regular customers had asked, with varying degrees of politeness, where the chair had gone.
+@option E. When I look back at the plan I wrote on the train, none of its three parts was entirely wrong. What it lacked was any sense of what the shop was already doing well. I had planned to improve a business before I had learned how that business worked.
+@option F. Not every lesson from the notebook was so welcome. Some entries recorded orders that had never been collected, and a few customers still owed money from years earlier. Her system depended on knowing everyone personally, and it had costs that the accounts did not show.
+@option G. The second part of the plan needed more caution than I gave it. I printed a list of every title that had not sold for two years and began packing those books into boxes for a charity shop in town.
+@option H. Something had to give, and I decided that it should not be the shop. I now accept online orders all week but post them on only two afternoons, and the shop keeps its full opening hours.
+19. Gap (19)
+ANS: D
+WHY: The paragraph before ends with a plan of "three parts". D begins "The first part of that plan" and introduces the armchair, which the next paragraph calls "the chair". G cannot go here: it is about the second part.
+20. Gap (20)
+ANS: G
+WHY: After the first part (the chair) comes "The second part of the plan". G ends with books being packed into boxes, and the next paragraph begins "Among them was a shelf of local walking guides…" and "tape the box shut".
+21. Gap (21)
+ANS: A
+WHY: Mrs Okafor asks the writer to look at "who had bought the most recent copies". A gives "The answer": the notebook shows that newcomers bought the guides. The next paragraph says "That changed how I read my own list."
+22. Gap (22)
+ANS: F
+WHY: F shows the problems of the notebook system (uncollected orders, unpaid money). This explains the next paragraph: "So I kept the notebook but changed how it was used" – orders now had to be "paid for in advance". The reasons and the result match.
+23. Gap (23)
+ANS: C
+WHY: C introduces the online catalogue and its many orders. The next paragraph begins "Most of those orders, however, came from cities hundreds of kilometres away".
+24. Gap (24)
+ANS: H
+WHY: The paragraph before describes a problem: the door was locked at lunchtime. H gives the solution: posting on only two afternoons, so "the shop keeps its full opening hours". The next paragraph says the catalogue earns less "but the door stays open".
+25. Gap (25)
+ANS: E
+WHY: E looks back at "the plan I wrote on the train" from the first paragraph and draws the lesson of the year. The final paragraph then returns to Mrs Okafor and the notebook. B is the extra paragraph: the writer never sent the boxes, because Mrs Okafor stopped her before she taped them shut.

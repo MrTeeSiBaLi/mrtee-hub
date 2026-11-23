@@ -1,4 +1,4 @@
-/* MR TEE LEARNING HUB — Practice Paper Engine v1.2
+/* MR TEE LEARNING HUB — Practice Paper Engine v1.3
    Usage in a Google Sites "Embed code" block:
      <script src="https://USERNAME.github.io/REPO/engine.js"><\/script>
      <script type="text/plain" class="mt-paper"> ...paper data... <\/script>
@@ -44,6 +44,18 @@
   ".mt-face.back{transform:rotateY(180deg);background:#fbfaf6}" +
   ".mt-word{font-size:32px}.mt-mean{font-family:Inter,Arial,sans-serif;font-size:16px;margin-bottom:8px}.mt-ex{font-style:italic;font-size:16px}" +
   ".mt-count{font-family:Inter,Arial,sans-serif;font-size:13px;color:#666}" +
+  ".mt details>summary{list-style:none;cursor:pointer;user-select:none}.mt details>summary::-webkit-details-marker{display:none}" +
+  ".mt-sec{border-top:3px solid #1a1a1a;margin:0}" +
+  ".mt-sec>summary{font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;padding:14px 4px}" +
+  ".mt-sec>summary:before,.mt-tk>summary:before{content:'\\25B8';display:inline-block;width:1.2em;transition:transform .2s}" +
+  ".mt-sec[open]>summary:before,.mt-tk[open]>summary:before{transform:rotate(90deg)}" +
+  ".mt-sec-body{padding:0 4px 18px}" +
+  ".mt-tk{border-top:1px solid #d8d3c8}.mt-tk>summary{font-size:20px;padding:12px 4px}" +
+  ".mt-tk>summary:hover,.mt-sec>summary:hover{background:#f6f3ec}" +
+  ".mt-badge{font-family:Inter,Arial,sans-serif;font-size:12px;font-weight:600;background:#1a1a1a;color:#fff;padding:2px 8px;border-radius:10px;margin-left:8px;vertical-align:middle}" +
+  ".mt-task.in-tk{border-top:0;padding-top:4px;margin-top:0}" +
+  ".mt-tools{display:flex;gap:10px;flex-wrap:wrap;margin:6px 0 14px}" +
+  ".mt-part{margin:0}" +
   ".mt-credit{font-family:Inter,Arial,sans-serif;font-size:12px;color:#777;margin-top:6px}";
 
   function esc(s) {
@@ -97,6 +109,7 @@
         else if (k === "text") { needTask(); inText = []; if (v) inText.push(v); }
         else if (k === "option") { needTask(); var om = v.match(/^([A-Z])[.)]\s*(.*)$/); if (om) task.opts.push({ key: om[1], text: om[2] }); }
         else if (k === "link") { needTask(); var lk = v.split("|"); task.links.push({ url: lk[0].trim(), label: (lk[1] || "Open").trim() }); }
+        else if (k === "cards") { P.cardsTitle = v; }
         else if (k === "card") { var c = v.split("|").map(function (x) { return x.trim(); }); P.cards.push({ word: c[0], mean: c[1] || "", ex: c[2] || "" }); }
         continue;
       }
@@ -131,9 +144,9 @@
     return box;
   }
 
-  function renderTask(t) {
-    var box = el("div", "mt-task");
-    if (t.title) box.appendChild(el("h3", null, fmt(t.title)));
+  function renderTask(t, inTk) {
+    var box = el("div", "mt-task" + (inTk ? " in-tk" : ""));
+    if (t.title && !inTk) box.appendChild(el("h3", null, fmt(t.title)));
     t.instr.forEach(function (x) { box.appendChild(el("p", "mt-instr", fmt(x))); });
     t.notes.forEach(function (x) { box.appendChild(el("div", "mt-note", fmt(x))); });
     t.audio.forEach(function (a) { box.appendChild(audioBlock(a)); });
@@ -187,6 +200,7 @@
             (g.it.why ? "<div class='why'>" + fmt(g.it.why) + "</div>" : "");
         });
         sc.textContent = "Score: " + ok + " / " + gradable.length;
+        if (box.onscore) box.onscore(ok, gradable.length);
         lock(true); chk.style.display = "none"; rst.style.display = "";
       };
       rst.onclick = function () {
@@ -196,7 +210,7 @@
           g.d.querySelectorAll("input[type=text]").forEach(function (x) { x.value = ""; });
           g.d.querySelectorAll("select").forEach(function (x) { x.value = ""; });
         });
-        sc.textContent = ""; lock(false); chk.style.display = ""; rst.style.display = "none";
+        sc.textContent = ""; if (box.onscore) box.onscore(null); lock(false); chk.style.display = ""; rst.style.display = "none";
       };
     }
     return box;
@@ -228,20 +242,50 @@
     return wrap;
   }
 
+  function taskDetails(t) {
+    var d = el("details", "mt-tk"), sm = el("summary", null, fmt(t.title || "Task")), badge = el("span", "mt-badge");
+    badge.style.display = "none"; sm.appendChild(badge); d.appendChild(sm);
+    var box = renderTask(t, true);
+    box.onscore = function (ok, n) { if (ok == null) { badge.style.display = "none"; } else { badge.textContent = "✓ " + ok + "/" + n; badge.style.display = ""; } };
+    d.appendChild(box); return d;
+  }
   function render(node) {
-    var P = parse(node.textContent), root = el("div", "mt");
-    if (P.kicker) root.appendChild(el("div", "mt-kicker", esc(P.kicker)));
-    if (P.title) root.appendChild(el("h1", null, fmt(P.title)));
+    var P = parse(node.textContent), inBook = !!(node.closest && node.closest(".mt-book"));
+    var root = el("div", inBook ? "mt-part" : "mt");
+    if (!inBook) {
+      if (P.kicker) root.appendChild(el("div", "mt-kicker", esc(P.kicker)));
+      if (P.title) root.appendChild(el("h1", null, fmt(P.title)));
+    }
     P.sections.forEach(function (s) {
-      if (s.name) root.appendChild(el("h2", null, fmt(s.name)));
-      (s.instr || []).forEach(function (x) { root.appendChild(el("div", "mt-note", fmt(x))); });
-      s.tasks.forEach(function (t) { root.appendChild(renderTask(t)); });
+      var sec = el("details", "mt-sec"), body = el("div", "mt-sec-body");
+      sec.appendChild(el("summary", null, fmt(s.name || P.title || "Section")));
+      (s.instr || []).forEach(function (x) { body.appendChild(el("div", "mt-note", fmt(x))); });
+      s.tasks.forEach(function (t) { body.appendChild(t.title ? taskDetails(t) : renderTask(t)); });
+      sec.appendChild(body); root.appendChild(sec);
     });
-    if (P.cards.length) { root.appendChild(el("h2", null, "Flashcards")); root.appendChild(renderCards(P.cards)); }
+    if (P.cards.length) {
+      var cs = el("details", "mt-sec"), cb = el("div", "mt-sec-body");
+      cs.appendChild(el("summary", null, (P.cardsTitle ? fmt(P.cardsTitle) : "Flashcards") + " · " + P.cards.length + " cards"));
+      cb.appendChild(renderCards(P.cards)); cs.appendChild(cb); root.appendChild(cs);
+    }
     node.parentNode.insertBefore(root, node.nextSibling);
   }
 
+  function setupBook(b) {
+    b.setAttribute("data-done", "1"); b.classList.add("mt");
+    var head = el("div");
+    var t = (b.getAttribute("data-title") || "").split("|");
+    if (t.length > 1) head.appendChild(el("div", "mt-kicker", esc(t[0].trim())));
+    if (t[t.length - 1].trim()) head.appendChild(el("h1", null, fmt(t[t.length - 1].trim())));
+    head.appendChild(el("p", "mt-instr", "Open any part you like. Finish a task, then click CHECK ANSWERS to see the answers and explanations."));
+    var tools = el("div", "mt-tools");
+    function btn(txt, open) { var x = el("button", "mt-btn alt", txt); x.onclick = function () { b.querySelectorAll("details").forEach(function (d) { d.open = open; }); }; tools.appendChild(x); }
+    btn("EXPAND ALL", true); btn("COLLAPSE ALL", false);
+    head.appendChild(tools); b.insertBefore(head, b.firstChild);
+  }
+
   function boot() {
+    document.querySelectorAll("div.mt-book:not([data-done])").forEach(setupBook);
     if (!document.getElementById("mt-style")) { var st = el("style"); st.id = "mt-style"; st.textContent = CSS; document.head.appendChild(st); }
     document.querySelectorAll("script.mt-paper:not([data-done])").forEach(function (n) { n.setAttribute("data-done", "1"); try { render(n); } catch (e) { n.insertAdjacentHTML("afterend", "<p style='color:red'>Paper data error: " + esc(e.message) + "</p>"); } });
     // Data kept as a file on GitHub: <div class="mt-paper" data-src="https://…/P001-listening.txt"></div>
